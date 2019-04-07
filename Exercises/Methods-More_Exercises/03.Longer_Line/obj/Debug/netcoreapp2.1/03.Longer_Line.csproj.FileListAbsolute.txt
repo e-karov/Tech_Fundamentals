@@ -1,0 +1,11 @@
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Longer_Line\obj\Debug\netcoreapp2.1\03.Longer_Line.csprojAssemblyReference.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Longer_Line\obj\Debug\netcoreapp2.1\03.Longer_Line.csproj.CoreCompileInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Longer_Line\obj\Debug\netcoreapp2.1\03.Longer_Line.AssemblyInfoInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Longer_Line\obj\Debug\netcoreapp2.1\03.Longer_Line.AssemblyInfo.cs
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Longer_Line\bin\Debug\netcoreapp2.1\03.Longer_Line.deps.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Longer_Line\bin\Debug\netcoreapp2.1\03.Longer_Line.runtimeconfig.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Longer_Line\bin\Debug\netcoreapp2.1\03.Longer_Line.runtimeconfig.dev.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Longer_Line\bin\Debug\netcoreapp2.1\03.Longer_Line.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Longer_Line\bin\Debug\netcoreapp2.1\03.Longer_Line.pdb
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Longer_Line\obj\Debug\netcoreapp2.1\03.Longer_Line.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Longer_Line\obj\Debug\netcoreapp2.1\03.Longer_Line.pdb

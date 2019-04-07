@@ -1,0 +1,10 @@
+D:\Repos\Methods-Exercise\05.Add_And_Subtract\bin\Debug\netcoreapp2.1\05.Add_And_Subtract.deps.json
+D:\Repos\Methods-Exercise\05.Add_And_Subtract\bin\Debug\netcoreapp2.1\05.Add_And_Subtract.runtimeconfig.json
+D:\Repos\Methods-Exercise\05.Add_And_Subtract\bin\Debug\netcoreapp2.1\05.Add_And_Subtract.runtimeconfig.dev.json
+D:\Repos\Methods-Exercise\05.Add_And_Subtract\bin\Debug\netcoreapp2.1\05.Add_And_Subtract.dll
+D:\Repos\Methods-Exercise\05.Add_And_Subtract\bin\Debug\netcoreapp2.1\05.Add_And_Subtract.pdb
+D:\Repos\Methods-Exercise\05.Add_And_Subtract\obj\Debug\netcoreapp2.1\05.Add_And_Subtract.csproj.CoreCompileInputs.cache
+D:\Repos\Methods-Exercise\05.Add_And_Subtract\obj\Debug\netcoreapp2.1\05.Add_And_Subtract.AssemblyInfoInputs.cache
+D:\Repos\Methods-Exercise\05.Add_And_Subtract\obj\Debug\netcoreapp2.1\05.Add_And_Subtract.AssemblyInfo.cs
+D:\Repos\Methods-Exercise\05.Add_And_Subtract\obj\Debug\netcoreapp2.1\05.Add_And_Subtract.dll
+D:\Repos\Methods-Exercise\05.Add_And_Subtract\obj\Debug\netcoreapp2.1\05.Add_And_Subtract.pdb

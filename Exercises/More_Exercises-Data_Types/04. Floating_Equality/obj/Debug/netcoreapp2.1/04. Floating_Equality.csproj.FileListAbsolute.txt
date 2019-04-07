@@ -1,0 +1,11 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\04. Floating_Equality\bin\Debug\netcoreapp2.1\04. Floating_Equality.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\04. Floating_Equality\bin\Debug\netcoreapp2.1\04. Floating_Equality.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\04. Floating_Equality\bin\Debug\netcoreapp2.1\04. Floating_Equality.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\04. Floating_Equality\bin\Debug\netcoreapp2.1\04. Floating_Equality.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\04. Floating_Equality\bin\Debug\netcoreapp2.1\04. Floating_Equality.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\04. Floating_Equality\obj\Debug\netcoreapp2.1\04. Floating_Equality.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\04. Floating_Equality\obj\Debug\netcoreapp2.1\04. Floating_Equality.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\04. Floating_Equality\obj\Debug\netcoreapp2.1\04. Floating_Equality.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\04. Floating_Equality\obj\Debug\netcoreapp2.1\04. Floating_Equality.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\04. Floating_Equality\obj\Debug\netcoreapp2.1\04. Floating_Equality.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\04. Floating_Equality\obj\Debug\netcoreapp2.1\04. Floating_Equality.csprojAssemblyReference.cache

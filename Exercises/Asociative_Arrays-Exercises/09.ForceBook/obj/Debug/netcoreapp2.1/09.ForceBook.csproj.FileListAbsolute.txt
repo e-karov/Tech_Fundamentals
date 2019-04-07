@@ -1,0 +1,11 @@
+D:\VS_Source\Asociative_Arrays-Exercises\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.deps.json
+D:\VS_Source\Asociative_Arrays-Exercises\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.runtimeconfig.json
+D:\VS_Source\Asociative_Arrays-Exercises\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.runtimeconfig.dev.json
+D:\VS_Source\Asociative_Arrays-Exercises\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.dll
+D:\VS_Source\Asociative_Arrays-Exercises\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.pdb
+D:\VS_Source\Asociative_Arrays-Exercises\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.csprojAssemblyReference.cache
+D:\VS_Source\Asociative_Arrays-Exercises\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.csproj.CoreCompileInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.AssemblyInfoInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.AssemblyInfo.cs
+D:\VS_Source\Asociative_Arrays-Exercises\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.dll
+D:\VS_Source\Asociative_Arrays-Exercises\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.pdb

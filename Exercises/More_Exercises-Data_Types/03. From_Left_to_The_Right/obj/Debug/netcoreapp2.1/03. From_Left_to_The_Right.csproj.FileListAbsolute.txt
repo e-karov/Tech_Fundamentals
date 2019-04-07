@@ -1,0 +1,11 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\03. From_Left_to_The_Right\bin\Debug\netcoreapp2.1\03. From_Left_to_The_Right.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\03. From_Left_to_The_Right\bin\Debug\netcoreapp2.1\03. From_Left_to_The_Right.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\03. From_Left_to_The_Right\bin\Debug\netcoreapp2.1\03. From_Left_to_The_Right.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\03. From_Left_to_The_Right\bin\Debug\netcoreapp2.1\03. From_Left_to_The_Right.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\03. From_Left_to_The_Right\bin\Debug\netcoreapp2.1\03. From_Left_to_The_Right.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\03. From_Left_to_The_Right\obj\Debug\netcoreapp2.1\03. From_Left_to_The_Right.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\03. From_Left_to_The_Right\obj\Debug\netcoreapp2.1\03. From_Left_to_The_Right.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\03. From_Left_to_The_Right\obj\Debug\netcoreapp2.1\03. From_Left_to_The_Right.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\03. From_Left_to_The_Right\obj\Debug\netcoreapp2.1\03. From_Left_to_The_Right.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\03. From_Left_to_The_Right\obj\Debug\netcoreapp2.1\03. From_Left_to_The_Right.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\03. From_Left_to_The_Right\obj\Debug\netcoreapp2.1\03. From_Left_to_The_Right.csprojAssemblyReference.cache

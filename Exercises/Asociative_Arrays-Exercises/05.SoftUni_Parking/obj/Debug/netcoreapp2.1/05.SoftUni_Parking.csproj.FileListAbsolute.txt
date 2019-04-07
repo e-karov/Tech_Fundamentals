@@ -1,0 +1,11 @@
+D:\VS_Source\Asociative_Arrays-Exercises\05.SoftUni_Parking\bin\Debug\netcoreapp2.1\05.SoftUni_Parking.deps.json
+D:\VS_Source\Asociative_Arrays-Exercises\05.SoftUni_Parking\bin\Debug\netcoreapp2.1\05.SoftUni_Parking.runtimeconfig.json
+D:\VS_Source\Asociative_Arrays-Exercises\05.SoftUni_Parking\bin\Debug\netcoreapp2.1\05.SoftUni_Parking.runtimeconfig.dev.json
+D:\VS_Source\Asociative_Arrays-Exercises\05.SoftUni_Parking\bin\Debug\netcoreapp2.1\05.SoftUni_Parking.dll
+D:\VS_Source\Asociative_Arrays-Exercises\05.SoftUni_Parking\bin\Debug\netcoreapp2.1\05.SoftUni_Parking.pdb
+D:\VS_Source\Asociative_Arrays-Exercises\05.SoftUni_Parking\obj\Debug\netcoreapp2.1\05.SoftUni_Parking.csprojAssemblyReference.cache
+D:\VS_Source\Asociative_Arrays-Exercises\05.SoftUni_Parking\obj\Debug\netcoreapp2.1\05.SoftUni_Parking.csproj.CoreCompileInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\05.SoftUni_Parking\obj\Debug\netcoreapp2.1\05.SoftUni_Parking.AssemblyInfoInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\05.SoftUni_Parking\obj\Debug\netcoreapp2.1\05.SoftUni_Parking.AssemblyInfo.cs
+D:\VS_Source\Asociative_Arrays-Exercises\05.SoftUni_Parking\obj\Debug\netcoreapp2.1\05.SoftUni_Parking.dll
+D:\VS_Source\Asociative_Arrays-Exercises\05.SoftUni_Parking\obj\Debug\netcoreapp2.1\05.SoftUni_Parking.pdb

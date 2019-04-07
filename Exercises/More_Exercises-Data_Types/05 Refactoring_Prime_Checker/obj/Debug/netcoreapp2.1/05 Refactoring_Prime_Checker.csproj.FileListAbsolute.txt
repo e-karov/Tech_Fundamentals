@@ -1,0 +1,10 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\05 Refactoring_Prime_Checker\bin\Debug\netcoreapp2.1\05 Refactoring_Prime_Checker.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\05 Refactoring_Prime_Checker\bin\Debug\netcoreapp2.1\05 Refactoring_Prime_Checker.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\05 Refactoring_Prime_Checker\bin\Debug\netcoreapp2.1\05 Refactoring_Prime_Checker.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\05 Refactoring_Prime_Checker\bin\Debug\netcoreapp2.1\05 Refactoring_Prime_Checker.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\05 Refactoring_Prime_Checker\bin\Debug\netcoreapp2.1\05 Refactoring_Prime_Checker.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\05 Refactoring_Prime_Checker\obj\Debug\netcoreapp2.1\05 Refactoring_Prime_Checker.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\05 Refactoring_Prime_Checker\obj\Debug\netcoreapp2.1\05 Refactoring_Prime_Checker.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\05 Refactoring_Prime_Checker\obj\Debug\netcoreapp2.1\05 Refactoring_Prime_Checker.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\05 Refactoring_Prime_Checker\obj\Debug\netcoreapp2.1\05 Refactoring_Prime_Checker.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\05 Refactoring_Prime_Checker\obj\Debug\netcoreapp2.1\05 Refactoring_Prime_Checker.pdb

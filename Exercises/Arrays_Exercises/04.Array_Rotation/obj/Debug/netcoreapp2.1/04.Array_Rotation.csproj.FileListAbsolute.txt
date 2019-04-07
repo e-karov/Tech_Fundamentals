@@ -1,0 +1,10 @@
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\04.Array_Rotation\bin\Debug\netcoreapp2.1\04.Array_Rotation.deps.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\04.Array_Rotation\bin\Debug\netcoreapp2.1\04.Array_Rotation.runtimeconfig.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\04.Array_Rotation\bin\Debug\netcoreapp2.1\04.Array_Rotation.runtimeconfig.dev.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\04.Array_Rotation\bin\Debug\netcoreapp2.1\04.Array_Rotation.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\04.Array_Rotation\bin\Debug\netcoreapp2.1\04.Array_Rotation.pdb
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\04.Array_Rotation\obj\Debug\netcoreapp2.1\04.Array_Rotation.csproj.CoreCompileInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\04.Array_Rotation\obj\Debug\netcoreapp2.1\04.Array_Rotation.AssemblyInfoInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\04.Array_Rotation\obj\Debug\netcoreapp2.1\04.Array_Rotation.AssemblyInfo.cs
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\04.Array_Rotation\obj\Debug\netcoreapp2.1\04.Array_Rotation.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\04.Array_Rotation\obj\Debug\netcoreapp2.1\04.Array_Rotation.pdb

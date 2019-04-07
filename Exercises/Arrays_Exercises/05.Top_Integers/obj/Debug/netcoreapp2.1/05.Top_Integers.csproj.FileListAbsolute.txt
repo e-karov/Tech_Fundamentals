@@ -1,0 +1,11 @@
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\05.Top_Integers\bin\Debug\netcoreapp2.1\05.Top_Integers.deps.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\05.Top_Integers\bin\Debug\netcoreapp2.1\05.Top_Integers.runtimeconfig.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\05.Top_Integers\bin\Debug\netcoreapp2.1\05.Top_Integers.runtimeconfig.dev.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\05.Top_Integers\bin\Debug\netcoreapp2.1\05.Top_Integers.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\05.Top_Integers\bin\Debug\netcoreapp2.1\05.Top_Integers.pdb
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\05.Top_Integers\obj\Debug\netcoreapp2.1\05.Top_Integers.csproj.CoreCompileInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\05.Top_Integers\obj\Debug\netcoreapp2.1\05.Top_Integers.AssemblyInfoInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\05.Top_Integers\obj\Debug\netcoreapp2.1\05.Top_Integers.AssemblyInfo.cs
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\05.Top_Integers\obj\Debug\netcoreapp2.1\05.Top_Integers.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\05.Top_Integers\obj\Debug\netcoreapp2.1\05.Top_Integers.pdb
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\05.Top_Integers\obj\Debug\netcoreapp2.1\05.Top_Integers.csprojAssemblyReference.cache

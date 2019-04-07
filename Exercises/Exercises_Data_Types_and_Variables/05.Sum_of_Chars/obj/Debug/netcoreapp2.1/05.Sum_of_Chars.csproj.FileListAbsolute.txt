@@ -1,0 +1,11 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Sum_of_Chars\bin\Debug\netcoreapp2.1\05.Sum_of_Chars.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Sum_of_Chars\bin\Debug\netcoreapp2.1\05.Sum_of_Chars.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Sum_of_Chars\bin\Debug\netcoreapp2.1\05.Sum_of_Chars.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Sum_of_Chars\bin\Debug\netcoreapp2.1\05.Sum_of_Chars.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Sum_of_Chars\bin\Debug\netcoreapp2.1\05.Sum_of_Chars.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Sum_of_Chars\obj\Debug\netcoreapp2.1\05.Sum_of_Chars.csprojAssemblyReference.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Sum_of_Chars\obj\Debug\netcoreapp2.1\05.Sum_of_Chars.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Sum_of_Chars\obj\Debug\netcoreapp2.1\05.Sum_of_Chars.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Sum_of_Chars\obj\Debug\netcoreapp2.1\05.Sum_of_Chars.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Sum_of_Chars\obj\Debug\netcoreapp2.1\05.Sum_of_Chars.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Sum_of_Chars\obj\Debug\netcoreapp2.1\05.Sum_of_Chars.pdb

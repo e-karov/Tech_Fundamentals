@@ -1,0 +1,11 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\02.Character_Multiplier\bin\Debug\netcoreapp2.1\02.Character_Multiplier.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\02.Character_Multiplier\bin\Debug\netcoreapp2.1\02.Character_Multiplier.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\02.Character_Multiplier\bin\Debug\netcoreapp2.1\02.Character_Multiplier.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\02.Character_Multiplier\bin\Debug\netcoreapp2.1\02.Character_Multiplier.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\02.Character_Multiplier\bin\Debug\netcoreapp2.1\02.Character_Multiplier.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\02.Character_Multiplier\obj\Debug\netcoreapp2.1\02.Character_Multiplier.csprojAssemblyReference.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\02.Character_Multiplier\obj\Debug\netcoreapp2.1\02.Character_Multiplier.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\02.Character_Multiplier\obj\Debug\netcoreapp2.1\02.Character_Multiplier.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\02.Character_Multiplier\obj\Debug\netcoreapp2.1\02.Character_Multiplier.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\02.Character_Multiplier\obj\Debug\netcoreapp2.1\02.Character_Multiplier.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\02.Character_Multiplier\obj\Debug\netcoreapp2.1\02.Character_Multiplier.pdb

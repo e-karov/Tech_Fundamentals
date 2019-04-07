@@ -1,0 +1,11 @@
+D:\Repos\Homewowrks\Ages\bin\Debug\netcoreapp2.1\Ages.deps.json
+D:\Repos\Homewowrks\Ages\bin\Debug\netcoreapp2.1\Ages.runtimeconfig.json
+D:\Repos\Homewowrks\Ages\bin\Debug\netcoreapp2.1\Ages.runtimeconfig.dev.json
+D:\Repos\Homewowrks\Ages\bin\Debug\netcoreapp2.1\Ages.dll
+D:\Repos\Homewowrks\Ages\bin\Debug\netcoreapp2.1\Ages.pdb
+D:\Repos\Homewowrks\Ages\obj\Debug\netcoreapp2.1\Ages.csprojAssemblyReference.cache
+D:\Repos\Homewowrks\Ages\obj\Debug\netcoreapp2.1\Ages.csproj.CoreCompileInputs.cache
+D:\Repos\Homewowrks\Ages\obj\Debug\netcoreapp2.1\Ages.AssemblyInfoInputs.cache
+D:\Repos\Homewowrks\Ages\obj\Debug\netcoreapp2.1\Ages.AssemblyInfo.cs
+D:\Repos\Homewowrks\Ages\obj\Debug\netcoreapp2.1\Ages.dll
+D:\Repos\Homewowrks\Ages\obj\Debug\netcoreapp2.1\Ages.pdb

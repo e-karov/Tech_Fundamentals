@@ -1,0 +1,10 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\06.Triples_of_Latin_Letters\bin\Debug\netcoreapp2.1\06.Triples_of_Latin_Letters.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\06.Triples_of_Latin_Letters\bin\Debug\netcoreapp2.1\06.Triples_of_Latin_Letters.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\06.Triples_of_Latin_Letters\bin\Debug\netcoreapp2.1\06.Triples_of_Latin_Letters.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\06.Triples_of_Latin_Letters\bin\Debug\netcoreapp2.1\06.Triples_of_Latin_Letters.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\06.Triples_of_Latin_Letters\bin\Debug\netcoreapp2.1\06.Triples_of_Latin_Letters.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\06.Triples_of_Latin_Letters\obj\Debug\netcoreapp2.1\06.Triples_of_Latin_Letters.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\06.Triples_of_Latin_Letters\obj\Debug\netcoreapp2.1\06.Triples_of_Latin_Letters.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\06.Triples_of_Latin_Letters\obj\Debug\netcoreapp2.1\06.Triples_of_Latin_Letters.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\06.Triples_of_Latin_Letters\obj\Debug\netcoreapp2.1\06.Triples_of_Latin_Letters.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\06.Triples_of_Latin_Letters\obj\Debug\netcoreapp2.1\06.Triples_of_Latin_Letters.pdb

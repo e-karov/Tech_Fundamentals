@@ -1,0 +1,11 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\02.Integer_Operations\bin\Debug\netcoreapp2.1\02.Integer_Operations.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\02.Integer_Operations\bin\Debug\netcoreapp2.1\02.Integer_Operations.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\02.Integer_Operations\bin\Debug\netcoreapp2.1\02.Integer_Operations.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\02.Integer_Operations\bin\Debug\netcoreapp2.1\02.Integer_Operations.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\02.Integer_Operations\bin\Debug\netcoreapp2.1\02.Integer_Operations.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\02.Integer_Operations\obj\Debug\netcoreapp2.1\02.Integer_Operations.csprojAssemblyReference.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\02.Integer_Operations\obj\Debug\netcoreapp2.1\02.Integer_Operations.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\02.Integer_Operations\obj\Debug\netcoreapp2.1\02.Integer_Operations.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\02.Integer_Operations\obj\Debug\netcoreapp2.1\02.Integer_Operations.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\02.Integer_Operations\obj\Debug\netcoreapp2.1\02.Integer_Operations.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\02.Integer_Operations\obj\Debug\netcoreapp2.1\02.Integer_Operations.pdb

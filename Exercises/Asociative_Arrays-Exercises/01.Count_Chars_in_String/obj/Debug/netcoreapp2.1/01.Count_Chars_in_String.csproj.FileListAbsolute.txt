@@ -1,0 +1,11 @@
+D:\VS_Source\Asociative_Arrays-Exercises\01.Count_Chars_in_String\bin\Debug\netcoreapp2.1\01.Count_Chars_in_String.deps.json
+D:\VS_Source\Asociative_Arrays-Exercises\01.Count_Chars_in_String\bin\Debug\netcoreapp2.1\01.Count_Chars_in_String.runtimeconfig.json
+D:\VS_Source\Asociative_Arrays-Exercises\01.Count_Chars_in_String\bin\Debug\netcoreapp2.1\01.Count_Chars_in_String.runtimeconfig.dev.json
+D:\VS_Source\Asociative_Arrays-Exercises\01.Count_Chars_in_String\bin\Debug\netcoreapp2.1\01.Count_Chars_in_String.dll
+D:\VS_Source\Asociative_Arrays-Exercises\01.Count_Chars_in_String\bin\Debug\netcoreapp2.1\01.Count_Chars_in_String.pdb
+D:\VS_Source\Asociative_Arrays-Exercises\01.Count_Chars_in_String\obj\Debug\netcoreapp2.1\01.Count_Chars_in_String.csprojAssemblyReference.cache
+D:\VS_Source\Asociative_Arrays-Exercises\01.Count_Chars_in_String\obj\Debug\netcoreapp2.1\01.Count_Chars_in_String.csproj.CoreCompileInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\01.Count_Chars_in_String\obj\Debug\netcoreapp2.1\01.Count_Chars_in_String.AssemblyInfoInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\01.Count_Chars_in_String\obj\Debug\netcoreapp2.1\01.Count_Chars_in_String.AssemblyInfo.cs
+D:\VS_Source\Asociative_Arrays-Exercises\01.Count_Chars_in_String\obj\Debug\netcoreapp2.1\01.Count_Chars_in_String.dll
+D:\VS_Source\Asociative_Arrays-Exercises\01.Count_Chars_in_String\obj\Debug\netcoreapp2.1\01.Count_Chars_in_String.pdb

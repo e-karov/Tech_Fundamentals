@@ -1,0 +1,11 @@
+D:\VS_Source\Asociative_Arrays-Exercises\14.Snowwhite\bin\Debug\netcoreapp2.1\14.Snowwhite.deps.json
+D:\VS_Source\Asociative_Arrays-Exercises\14.Snowwhite\bin\Debug\netcoreapp2.1\14.Snowwhite.runtimeconfig.json
+D:\VS_Source\Asociative_Arrays-Exercises\14.Snowwhite\bin\Debug\netcoreapp2.1\14.Snowwhite.runtimeconfig.dev.json
+D:\VS_Source\Asociative_Arrays-Exercises\14.Snowwhite\bin\Debug\netcoreapp2.1\14.Snowwhite.dll
+D:\VS_Source\Asociative_Arrays-Exercises\14.Snowwhite\bin\Debug\netcoreapp2.1\14.Snowwhite.pdb
+D:\VS_Source\Asociative_Arrays-Exercises\14.Snowwhite\obj\Debug\netcoreapp2.1\14.Snowwhite.csprojAssemblyReference.cache
+D:\VS_Source\Asociative_Arrays-Exercises\14.Snowwhite\obj\Debug\netcoreapp2.1\14.Snowwhite.csproj.CoreCompileInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\14.Snowwhite\obj\Debug\netcoreapp2.1\14.Snowwhite.AssemblyInfoInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\14.Snowwhite\obj\Debug\netcoreapp2.1\14.Snowwhite.AssemblyInfo.cs
+D:\VS_Source\Asociative_Arrays-Exercises\14.Snowwhite\obj\Debug\netcoreapp2.1\14.Snowwhite.dll
+D:\VS_Source\Asociative_Arrays-Exercises\14.Snowwhite\obj\Debug\netcoreapp2.1\14.Snowwhite.pdb

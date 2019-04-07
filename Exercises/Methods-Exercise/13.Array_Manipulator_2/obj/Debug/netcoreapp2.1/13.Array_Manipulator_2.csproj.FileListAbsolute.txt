@@ -1,0 +1,11 @@
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-Exercise\13.Array_Manipulator_2\bin\Debug\netcoreapp2.1\13.Array_Manipulator_2.deps.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-Exercise\13.Array_Manipulator_2\bin\Debug\netcoreapp2.1\13.Array_Manipulator_2.runtimeconfig.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-Exercise\13.Array_Manipulator_2\bin\Debug\netcoreapp2.1\13.Array_Manipulator_2.runtimeconfig.dev.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-Exercise\13.Array_Manipulator_2\bin\Debug\netcoreapp2.1\13.Array_Manipulator_2.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-Exercise\13.Array_Manipulator_2\bin\Debug\netcoreapp2.1\13.Array_Manipulator_2.pdb
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-Exercise\13.Array_Manipulator_2\obj\Debug\netcoreapp2.1\13.Array_Manipulator_2.csprojAssemblyReference.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-Exercise\13.Array_Manipulator_2\obj\Debug\netcoreapp2.1\13.Array_Manipulator_2.csproj.CoreCompileInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-Exercise\13.Array_Manipulator_2\obj\Debug\netcoreapp2.1\13.Array_Manipulator_2.AssemblyInfoInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-Exercise\13.Array_Manipulator_2\obj\Debug\netcoreapp2.1\13.Array_Manipulator_2.AssemblyInfo.cs
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-Exercise\13.Array_Manipulator_2\obj\Debug\netcoreapp2.1\13.Array_Manipulator_2.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-Exercise\13.Array_Manipulator_2\obj\Debug\netcoreapp2.1\13.Array_Manipulator_2.pdb

@@ -1,0 +1,10 @@
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\04.Multplication_Sign\bin\Debug\netcoreapp2.1\04.Multplication_Sign.deps.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\04.Multplication_Sign\bin\Debug\netcoreapp2.1\04.Multplication_Sign.runtimeconfig.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\04.Multplication_Sign\bin\Debug\netcoreapp2.1\04.Multplication_Sign.runtimeconfig.dev.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\04.Multplication_Sign\bin\Debug\netcoreapp2.1\04.Multplication_Sign.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\04.Multplication_Sign\bin\Debug\netcoreapp2.1\04.Multplication_Sign.pdb
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\04.Multplication_Sign\obj\Debug\netcoreapp2.1\04.Multplication_Sign.csproj.CoreCompileInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\04.Multplication_Sign\obj\Debug\netcoreapp2.1\04.Multplication_Sign.AssemblyInfoInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\04.Multplication_Sign\obj\Debug\netcoreapp2.1\04.Multplication_Sign.AssemblyInfo.cs
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\04.Multplication_Sign\obj\Debug\netcoreapp2.1\04.Multplication_Sign.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\04.Multplication_Sign\obj\Debug\netcoreapp2.1\04.Multplication_Sign.pdb

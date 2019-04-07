@@ -1,0 +1,11 @@
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\10.LadyBugs\bin\Debug\netcoreapp2.1\10.LadyBugs.deps.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\10.LadyBugs\bin\Debug\netcoreapp2.1\10.LadyBugs.runtimeconfig.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\10.LadyBugs\bin\Debug\netcoreapp2.1\10.LadyBugs.runtimeconfig.dev.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\10.LadyBugs\bin\Debug\netcoreapp2.1\10.LadyBugs.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\10.LadyBugs\bin\Debug\netcoreapp2.1\10.LadyBugs.pdb
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\10.LadyBugs\obj\Debug\netcoreapp2.1\10.LadyBugs.csprojAssemblyReference.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\10.LadyBugs\obj\Debug\netcoreapp2.1\10.LadyBugs.csproj.CoreCompileInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\10.LadyBugs\obj\Debug\netcoreapp2.1\10.LadyBugs.AssemblyInfoInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\10.LadyBugs\obj\Debug\netcoreapp2.1\10.LadyBugs.AssemblyInfo.cs
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\10.LadyBugs\obj\Debug\netcoreapp2.1\10.LadyBugs.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\10.LadyBugs\obj\Debug\netcoreapp2.1\10.LadyBugs.pdb

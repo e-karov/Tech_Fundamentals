@@ -1,0 +1,11 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\08.Beer_Kegs\bin\Debug\netcoreapp2.1\08.Beer_Kegs.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\08.Beer_Kegs\bin\Debug\netcoreapp2.1\08.Beer_Kegs.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\08.Beer_Kegs\bin\Debug\netcoreapp2.1\08.Beer_Kegs.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\08.Beer_Kegs\bin\Debug\netcoreapp2.1\08.Beer_Kegs.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\08.Beer_Kegs\bin\Debug\netcoreapp2.1\08.Beer_Kegs.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\08.Beer_Kegs\obj\Debug\netcoreapp2.1\08.Beer_Kegs.csprojAssemblyReference.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\08.Beer_Kegs\obj\Debug\netcoreapp2.1\08.Beer_Kegs.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\08.Beer_Kegs\obj\Debug\netcoreapp2.1\08.Beer_Kegs.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\08.Beer_Kegs\obj\Debug\netcoreapp2.1\08.Beer_Kegs.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\08.Beer_Kegs\obj\Debug\netcoreapp2.1\08.Beer_Kegs.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\08.Beer_Kegs\obj\Debug\netcoreapp2.1\08.Beer_Kegs.pdb

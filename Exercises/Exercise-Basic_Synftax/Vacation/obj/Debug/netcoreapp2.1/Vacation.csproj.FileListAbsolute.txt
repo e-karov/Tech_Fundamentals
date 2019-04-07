@@ -1,0 +1,11 @@
+D:\Repos\Homewowrks\Vacation\bin\Debug\netcoreapp2.1\Vacation.deps.json
+D:\Repos\Homewowrks\Vacation\bin\Debug\netcoreapp2.1\Vacation.runtimeconfig.json
+D:\Repos\Homewowrks\Vacation\bin\Debug\netcoreapp2.1\Vacation.runtimeconfig.dev.json
+D:\Repos\Homewowrks\Vacation\bin\Debug\netcoreapp2.1\Vacation.dll
+D:\Repos\Homewowrks\Vacation\bin\Debug\netcoreapp2.1\Vacation.pdb
+D:\Repos\Homewowrks\Vacation\obj\Debug\netcoreapp2.1\Vacation.csprojAssemblyReference.cache
+D:\Repos\Homewowrks\Vacation\obj\Debug\netcoreapp2.1\Vacation.csproj.CoreCompileInputs.cache
+D:\Repos\Homewowrks\Vacation\obj\Debug\netcoreapp2.1\Vacation.AssemblyInfoInputs.cache
+D:\Repos\Homewowrks\Vacation\obj\Debug\netcoreapp2.1\Vacation.AssemblyInfo.cs
+D:\Repos\Homewowrks\Vacation\obj\Debug\netcoreapp2.1\Vacation.dll
+D:\Repos\Homewowrks\Vacation\obj\Debug\netcoreapp2.1\Vacation.pdb

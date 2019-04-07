@@ -1,0 +1,11 @@
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\01.Data_Types\bin\Debug\netcoreapp2.1\01.Data_Types.deps.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\01.Data_Types\bin\Debug\netcoreapp2.1\01.Data_Types.runtimeconfig.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\01.Data_Types\bin\Debug\netcoreapp2.1\01.Data_Types.runtimeconfig.dev.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\01.Data_Types\bin\Debug\netcoreapp2.1\01.Data_Types.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\01.Data_Types\bin\Debug\netcoreapp2.1\01.Data_Types.pdb
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\01.Data_Types\obj\Debug\netcoreapp2.1\01.Data_Types.csprojAssemblyReference.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\01.Data_Types\obj\Debug\netcoreapp2.1\01.Data_Types.csproj.CoreCompileInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\01.Data_Types\obj\Debug\netcoreapp2.1\01.Data_Types.AssemblyInfoInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\01.Data_Types\obj\Debug\netcoreapp2.1\01.Data_Types.AssemblyInfo.cs
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\01.Data_Types\obj\Debug\netcoreapp2.1\01.Data_Types.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\01.Data_Types\obj\Debug\netcoreapp2.1\01.Data_Types.pdb

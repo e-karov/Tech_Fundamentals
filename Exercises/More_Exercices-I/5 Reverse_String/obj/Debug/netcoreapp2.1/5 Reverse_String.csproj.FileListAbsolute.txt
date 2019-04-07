@@ -1,0 +1,10 @@
+D:\Repos\More_Exercices-I\5 Reverse_String\bin\Debug\netcoreapp2.1\5 Reverse_String.deps.json
+D:\Repos\More_Exercices-I\5 Reverse_String\bin\Debug\netcoreapp2.1\5 Reverse_String.runtimeconfig.json
+D:\Repos\More_Exercices-I\5 Reverse_String\bin\Debug\netcoreapp2.1\5 Reverse_String.runtimeconfig.dev.json
+D:\Repos\More_Exercices-I\5 Reverse_String\bin\Debug\netcoreapp2.1\5 Reverse_String.dll
+D:\Repos\More_Exercices-I\5 Reverse_String\bin\Debug\netcoreapp2.1\5 Reverse_String.pdb
+D:\Repos\More_Exercices-I\5 Reverse_String\obj\Debug\netcoreapp2.1\5 Reverse_String.csproj.CoreCompileInputs.cache
+D:\Repos\More_Exercices-I\5 Reverse_String\obj\Debug\netcoreapp2.1\5 Reverse_String.AssemblyInfoInputs.cache
+D:\Repos\More_Exercices-I\5 Reverse_String\obj\Debug\netcoreapp2.1\5 Reverse_String.AssemblyInfo.cs
+D:\Repos\More_Exercices-I\5 Reverse_String\obj\Debug\netcoreapp2.1\5 Reverse_String.dll
+D:\Repos\More_Exercices-I\5 Reverse_String\obj\Debug\netcoreapp2.1\5 Reverse_String.pdb

@@ -1,0 +1,11 @@
+D:\VS_Source\Asociative_Arrays-Exercises\02.A_Miiner_Task\bin\Debug\netcoreapp2.1\02.A_Miiner_Task.deps.json
+D:\VS_Source\Asociative_Arrays-Exercises\02.A_Miiner_Task\bin\Debug\netcoreapp2.1\02.A_Miiner_Task.runtimeconfig.json
+D:\VS_Source\Asociative_Arrays-Exercises\02.A_Miiner_Task\bin\Debug\netcoreapp2.1\02.A_Miiner_Task.runtimeconfig.dev.json
+D:\VS_Source\Asociative_Arrays-Exercises\02.A_Miiner_Task\bin\Debug\netcoreapp2.1\02.A_Miiner_Task.dll
+D:\VS_Source\Asociative_Arrays-Exercises\02.A_Miiner_Task\bin\Debug\netcoreapp2.1\02.A_Miiner_Task.pdb
+D:\VS_Source\Asociative_Arrays-Exercises\02.A_Miiner_Task\obj\Debug\netcoreapp2.1\02.A_Miiner_Task.csprojAssemblyReference.cache
+D:\VS_Source\Asociative_Arrays-Exercises\02.A_Miiner_Task\obj\Debug\netcoreapp2.1\02.A_Miiner_Task.csproj.CoreCompileInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\02.A_Miiner_Task\obj\Debug\netcoreapp2.1\02.A_Miiner_Task.AssemblyInfoInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\02.A_Miiner_Task\obj\Debug\netcoreapp2.1\02.A_Miiner_Task.AssemblyInfo.cs
+D:\VS_Source\Asociative_Arrays-Exercises\02.A_Miiner_Task\obj\Debug\netcoreapp2.1\02.A_Miiner_Task.dll
+D:\VS_Source\Asociative_Arrays-Exercises\02.A_Miiner_Task\obj\Debug\netcoreapp2.1\02.A_Miiner_Task.pdb

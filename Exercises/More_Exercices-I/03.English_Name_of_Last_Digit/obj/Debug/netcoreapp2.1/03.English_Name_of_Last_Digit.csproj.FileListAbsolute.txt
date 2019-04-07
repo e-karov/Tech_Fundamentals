@@ -1,0 +1,10 @@
+D:\Repos\More_Exercices-I\03.English_Name_of_Last_Digit\bin\Debug\netcoreapp2.1\03.English_Name_of_Last_Digit.deps.json
+D:\Repos\More_Exercices-I\03.English_Name_of_Last_Digit\bin\Debug\netcoreapp2.1\03.English_Name_of_Last_Digit.runtimeconfig.json
+D:\Repos\More_Exercices-I\03.English_Name_of_Last_Digit\bin\Debug\netcoreapp2.1\03.English_Name_of_Last_Digit.runtimeconfig.dev.json
+D:\Repos\More_Exercices-I\03.English_Name_of_Last_Digit\bin\Debug\netcoreapp2.1\03.English_Name_of_Last_Digit.dll
+D:\Repos\More_Exercices-I\03.English_Name_of_Last_Digit\bin\Debug\netcoreapp2.1\03.English_Name_of_Last_Digit.pdb
+D:\Repos\More_Exercices-I\03.English_Name_of_Last_Digit\obj\Debug\netcoreapp2.1\03.English_Name_of_Last_Digit.csproj.CoreCompileInputs.cache
+D:\Repos\More_Exercices-I\03.English_Name_of_Last_Digit\obj\Debug\netcoreapp2.1\03.English_Name_of_Last_Digit.AssemblyInfoInputs.cache
+D:\Repos\More_Exercices-I\03.English_Name_of_Last_Digit\obj\Debug\netcoreapp2.1\03.English_Name_of_Last_Digit.AssemblyInfo.cs
+D:\Repos\More_Exercices-I\03.English_Name_of_Last_Digit\obj\Debug\netcoreapp2.1\03.English_Name_of_Last_Digit.dll
+D:\Repos\More_Exercices-I\03.English_Name_of_Last_Digit\obj\Debug\netcoreapp2.1\03.English_Name_of_Last_Digit.pdb

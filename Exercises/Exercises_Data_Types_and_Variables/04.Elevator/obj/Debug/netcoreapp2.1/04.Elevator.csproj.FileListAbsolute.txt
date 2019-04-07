@@ -1,0 +1,10 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\04.Elevator\bin\Debug\netcoreapp2.1\04.Elevator.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\04.Elevator\bin\Debug\netcoreapp2.1\04.Elevator.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\04.Elevator\bin\Debug\netcoreapp2.1\04.Elevator.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\04.Elevator\bin\Debug\netcoreapp2.1\04.Elevator.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\04.Elevator\bin\Debug\netcoreapp2.1\04.Elevator.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\04.Elevator\obj\Debug\netcoreapp2.1\04.Elevator.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\04.Elevator\obj\Debug\netcoreapp2.1\04.Elevator.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\04.Elevator\obj\Debug\netcoreapp2.1\04.Elevator.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\04.Elevator\obj\Debug\netcoreapp2.1\04.Elevator.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\04.Elevator\obj\Debug\netcoreapp2.1\04.Elevator.pdb

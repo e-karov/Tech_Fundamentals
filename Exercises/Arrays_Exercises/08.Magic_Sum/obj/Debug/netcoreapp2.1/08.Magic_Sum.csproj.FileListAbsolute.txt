@@ -1,0 +1,11 @@
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\08.Magic_Sum\bin\Debug\netcoreapp2.1\08.Magic_Sum.deps.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\08.Magic_Sum\bin\Debug\netcoreapp2.1\08.Magic_Sum.runtimeconfig.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\08.Magic_Sum\bin\Debug\netcoreapp2.1\08.Magic_Sum.runtimeconfig.dev.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\08.Magic_Sum\bin\Debug\netcoreapp2.1\08.Magic_Sum.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\08.Magic_Sum\bin\Debug\netcoreapp2.1\08.Magic_Sum.pdb
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\08.Magic_Sum\obj\Debug\netcoreapp2.1\08.Magic_Sum.csproj.CoreCompileInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\08.Magic_Sum\obj\Debug\netcoreapp2.1\08.Magic_Sum.AssemblyInfoInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\08.Magic_Sum\obj\Debug\netcoreapp2.1\08.Magic_Sum.AssemblyInfo.cs
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\08.Magic_Sum\obj\Debug\netcoreapp2.1\08.Magic_Sum.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\08.Magic_Sum\obj\Debug\netcoreapp2.1\08.Magic_Sum.pdb
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\08.Magic_Sum\obj\Debug\netcoreapp2.1\08.Magic_Sum.csprojAssemblyReference.cache

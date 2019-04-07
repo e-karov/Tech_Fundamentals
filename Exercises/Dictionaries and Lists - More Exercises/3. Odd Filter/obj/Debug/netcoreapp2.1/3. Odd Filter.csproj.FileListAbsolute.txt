@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\3. Odd Filter\bin\Debug\netcoreapp2.1\3. Odd Filter.deps.json
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\3. Odd Filter\bin\Debug\netcoreapp2.1\3. Odd Filter.runtimeconfig.json
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\3. Odd Filter\bin\Debug\netcoreapp2.1\3. Odd Filter.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\3. Odd Filter\bin\Debug\netcoreapp2.1\3. Odd Filter.dll
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\3. Odd Filter\bin\Debug\netcoreapp2.1\3. Odd Filter.pdb
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\3. Odd Filter\obj\Debug\netcoreapp2.1\3. Odd Filter.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\3. Odd Filter\obj\Debug\netcoreapp2.1\3. Odd Filter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\3. Odd Filter\obj\Debug\netcoreapp2.1\3. Odd Filter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\3. Odd Filter\obj\Debug\netcoreapp2.1\3. Odd Filter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\3. Odd Filter\obj\Debug\netcoreapp2.1\3. Odd Filter.dll
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\3. Odd Filter\obj\Debug\netcoreapp2.1\3. Odd Filter.pdb

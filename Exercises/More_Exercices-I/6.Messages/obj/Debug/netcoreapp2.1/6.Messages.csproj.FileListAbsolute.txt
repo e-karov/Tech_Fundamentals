@@ -1,0 +1,11 @@
+D:\Repos\More_Exercices-I\6.Messages\bin\Debug\netcoreapp2.1\6.Messages.deps.json
+D:\Repos\More_Exercices-I\6.Messages\bin\Debug\netcoreapp2.1\6.Messages.runtimeconfig.json
+D:\Repos\More_Exercices-I\6.Messages\bin\Debug\netcoreapp2.1\6.Messages.runtimeconfig.dev.json
+D:\Repos\More_Exercices-I\6.Messages\bin\Debug\netcoreapp2.1\6.Messages.dll
+D:\Repos\More_Exercices-I\6.Messages\bin\Debug\netcoreapp2.1\6.Messages.pdb
+D:\Repos\More_Exercices-I\6.Messages\obj\Debug\netcoreapp2.1\6.Messages.csprojAssemblyReference.cache
+D:\Repos\More_Exercices-I\6.Messages\obj\Debug\netcoreapp2.1\6.Messages.csproj.CoreCompileInputs.cache
+D:\Repos\More_Exercices-I\6.Messages\obj\Debug\netcoreapp2.1\6.Messages.AssemblyInfoInputs.cache
+D:\Repos\More_Exercices-I\6.Messages\obj\Debug\netcoreapp2.1\6.Messages.AssemblyInfo.cs
+D:\Repos\More_Exercices-I\6.Messages\obj\Debug\netcoreapp2.1\6.Messages.dll
+D:\Repos\More_Exercices-I\6.Messages\obj\Debug\netcoreapp2.1\6.Messages.pdb

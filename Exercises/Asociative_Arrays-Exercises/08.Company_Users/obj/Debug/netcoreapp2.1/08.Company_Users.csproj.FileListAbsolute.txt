@@ -1,0 +1,11 @@
+D:\VS_Source\Asociative_Arrays-Exercises\08.Company_Users\bin\Debug\netcoreapp2.1\08.Company_Users.deps.json
+D:\VS_Source\Asociative_Arrays-Exercises\08.Company_Users\bin\Debug\netcoreapp2.1\08.Company_Users.runtimeconfig.json
+D:\VS_Source\Asociative_Arrays-Exercises\08.Company_Users\bin\Debug\netcoreapp2.1\08.Company_Users.runtimeconfig.dev.json
+D:\VS_Source\Asociative_Arrays-Exercises\08.Company_Users\bin\Debug\netcoreapp2.1\08.Company_Users.dll
+D:\VS_Source\Asociative_Arrays-Exercises\08.Company_Users\bin\Debug\netcoreapp2.1\08.Company_Users.pdb
+D:\VS_Source\Asociative_Arrays-Exercises\08.Company_Users\obj\Debug\netcoreapp2.1\08.Company_Users.csprojAssemblyReference.cache
+D:\VS_Source\Asociative_Arrays-Exercises\08.Company_Users\obj\Debug\netcoreapp2.1\08.Company_Users.csproj.CoreCompileInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\08.Company_Users\obj\Debug\netcoreapp2.1\08.Company_Users.AssemblyInfoInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\08.Company_Users\obj\Debug\netcoreapp2.1\08.Company_Users.AssemblyInfo.cs
+D:\VS_Source\Asociative_Arrays-Exercises\08.Company_Users\obj\Debug\netcoreapp2.1\08.Company_Users.dll
+D:\VS_Source\Asociative_Arrays-Exercises\08.Company_Users\obj\Debug\netcoreapp2.1\08.Company_Users.pdb

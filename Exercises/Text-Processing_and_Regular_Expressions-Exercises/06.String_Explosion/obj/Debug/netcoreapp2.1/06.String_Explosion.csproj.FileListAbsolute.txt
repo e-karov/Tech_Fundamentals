@@ -1,0 +1,11 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.String_Explosion\bin\Debug\netcoreapp2.1\06.String_Explosion.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.String_Explosion\bin\Debug\netcoreapp2.1\06.String_Explosion.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.String_Explosion\bin\Debug\netcoreapp2.1\06.String_Explosion.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.String_Explosion\bin\Debug\netcoreapp2.1\06.String_Explosion.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.String_Explosion\bin\Debug\netcoreapp2.1\06.String_Explosion.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.String_Explosion\obj\Debug\netcoreapp2.1\06.String_Explosion.csprojAssemblyReference.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.String_Explosion\obj\Debug\netcoreapp2.1\06.String_Explosion.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.String_Explosion\obj\Debug\netcoreapp2.1\06.String_Explosion.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.String_Explosion\obj\Debug\netcoreapp2.1\06.String_Explosion.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.String_Explosion\obj\Debug\netcoreapp2.1\06.String_Explosion.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.String_Explosion\obj\Debug\netcoreapp2.1\06.String_Explosion.pdb

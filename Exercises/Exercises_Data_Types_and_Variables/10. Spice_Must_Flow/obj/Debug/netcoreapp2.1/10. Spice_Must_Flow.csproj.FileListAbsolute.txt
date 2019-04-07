@@ -1,0 +1,11 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\10. Spice_Must_Flow\bin\Debug\netcoreapp2.1\10. Spice_Must_Flow.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\10. Spice_Must_Flow\bin\Debug\netcoreapp2.1\10. Spice_Must_Flow.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\10. Spice_Must_Flow\bin\Debug\netcoreapp2.1\10. Spice_Must_Flow.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\10. Spice_Must_Flow\bin\Debug\netcoreapp2.1\10. Spice_Must_Flow.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\10. Spice_Must_Flow\bin\Debug\netcoreapp2.1\10. Spice_Must_Flow.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\10. Spice_Must_Flow\obj\Debug\netcoreapp2.1\10. Spice_Must_Flow.csprojAssemblyReference.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\10. Spice_Must_Flow\obj\Debug\netcoreapp2.1\10. Spice_Must_Flow.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\10. Spice_Must_Flow\obj\Debug\netcoreapp2.1\10. Spice_Must_Flow.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\10. Spice_Must_Flow\obj\Debug\netcoreapp2.1\10. Spice_Must_Flow.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\10. Spice_Must_Flow\obj\Debug\netcoreapp2.1\10. Spice_Must_Flow.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\10. Spice_Must_Flow\obj\Debug\netcoreapp2.1\10. Spice_Must_Flow.pdb

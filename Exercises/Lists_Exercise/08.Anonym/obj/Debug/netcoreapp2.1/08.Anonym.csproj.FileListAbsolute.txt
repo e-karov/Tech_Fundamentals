@@ -1,0 +1,11 @@
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\08.Anonym\bin\Debug\netcoreapp2.1\08.Anonym.deps.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\08.Anonym\bin\Debug\netcoreapp2.1\08.Anonym.runtimeconfig.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\08.Anonym\bin\Debug\netcoreapp2.1\08.Anonym.runtimeconfig.dev.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\08.Anonym\bin\Debug\netcoreapp2.1\08.Anonym.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\08.Anonym\bin\Debug\netcoreapp2.1\08.Anonym.pdb
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\08.Anonym\obj\Debug\netcoreapp2.1\08.Anonym.csprojAssemblyReference.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\08.Anonym\obj\Debug\netcoreapp2.1\08.Anonym.csproj.CoreCompileInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\08.Anonym\obj\Debug\netcoreapp2.1\08.Anonym.AssemblyInfoInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\08.Anonym\obj\Debug\netcoreapp2.1\08.Anonym.AssemblyInfo.cs
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\08.Anonym\obj\Debug\netcoreapp2.1\08.Anonym.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\08.Anonym\obj\Debug\netcoreapp2.1\08.Anonym.pdb

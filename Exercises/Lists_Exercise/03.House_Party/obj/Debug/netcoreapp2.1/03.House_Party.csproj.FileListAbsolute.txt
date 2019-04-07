@@ -1,0 +1,10 @@
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\03.House_Party\bin\Debug\netcoreapp2.1\03.House_Party.deps.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\03.House_Party\bin\Debug\netcoreapp2.1\03.House_Party.runtimeconfig.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\03.House_Party\bin\Debug\netcoreapp2.1\03.House_Party.runtimeconfig.dev.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\03.House_Party\bin\Debug\netcoreapp2.1\03.House_Party.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\03.House_Party\bin\Debug\netcoreapp2.1\03.House_Party.pdb
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\03.House_Party\obj\Debug\netcoreapp2.1\03.House_Party.csproj.CoreCompileInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\03.House_Party\obj\Debug\netcoreapp2.1\03.House_Party.AssemblyInfoInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\03.House_Party\obj\Debug\netcoreapp2.1\03.House_Party.AssemblyInfo.cs
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\03.House_Party\obj\Debug\netcoreapp2.1\03.House_Party.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\03.House_Party\obj\Debug\netcoreapp2.1\03.House_Party.pdb

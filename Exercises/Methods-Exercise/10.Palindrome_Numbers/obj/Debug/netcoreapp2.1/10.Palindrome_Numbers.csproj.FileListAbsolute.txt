@@ -1,0 +1,10 @@
+D:\Repos\Methods-Exercise\10.Palindrome_Numbers\bin\Debug\netcoreapp2.1\10.Palindrome_Numbers.deps.json
+D:\Repos\Methods-Exercise\10.Palindrome_Numbers\bin\Debug\netcoreapp2.1\10.Palindrome_Numbers.runtimeconfig.json
+D:\Repos\Methods-Exercise\10.Palindrome_Numbers\bin\Debug\netcoreapp2.1\10.Palindrome_Numbers.runtimeconfig.dev.json
+D:\Repos\Methods-Exercise\10.Palindrome_Numbers\bin\Debug\netcoreapp2.1\10.Palindrome_Numbers.dll
+D:\Repos\Methods-Exercise\10.Palindrome_Numbers\bin\Debug\netcoreapp2.1\10.Palindrome_Numbers.pdb
+D:\Repos\Methods-Exercise\10.Palindrome_Numbers\obj\Debug\netcoreapp2.1\10.Palindrome_Numbers.csproj.CoreCompileInputs.cache
+D:\Repos\Methods-Exercise\10.Palindrome_Numbers\obj\Debug\netcoreapp2.1\10.Palindrome_Numbers.AssemblyInfoInputs.cache
+D:\Repos\Methods-Exercise\10.Palindrome_Numbers\obj\Debug\netcoreapp2.1\10.Palindrome_Numbers.AssemblyInfo.cs
+D:\Repos\Methods-Exercise\10.Palindrome_Numbers\obj\Debug\netcoreapp2.1\10.Palindrome_Numbers.dll
+D:\Repos\Methods-Exercise\10.Palindrome_Numbers\obj\Debug\netcoreapp2.1\10.Palindrome_Numbers.pdb

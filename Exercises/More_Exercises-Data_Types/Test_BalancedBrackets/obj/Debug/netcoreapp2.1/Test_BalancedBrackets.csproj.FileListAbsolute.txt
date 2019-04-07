@@ -1,0 +1,11 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\Test_BalancedBrackets\obj\Debug\netcoreapp2.1\Test_BalancedBrackets.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\Test_BalancedBrackets\obj\Debug\netcoreapp2.1\Test_BalancedBrackets.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\Test_BalancedBrackets\obj\Debug\netcoreapp2.1\Test_BalancedBrackets.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\Test_BalancedBrackets\bin\Debug\netcoreapp2.1\Test_BalancedBrackets.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\Test_BalancedBrackets\bin\Debug\netcoreapp2.1\Test_BalancedBrackets.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\Test_BalancedBrackets\bin\Debug\netcoreapp2.1\Test_BalancedBrackets.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\Test_BalancedBrackets\bin\Debug\netcoreapp2.1\Test_BalancedBrackets.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\Test_BalancedBrackets\bin\Debug\netcoreapp2.1\Test_BalancedBrackets.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\Test_BalancedBrackets\obj\Debug\netcoreapp2.1\Test_BalancedBrackets.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\Test_BalancedBrackets\obj\Debug\netcoreapp2.1\Test_BalancedBrackets.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\Test_BalancedBrackets\obj\Debug\netcoreapp2.1\Test_BalancedBrackets.csprojAssemblyReference.cache

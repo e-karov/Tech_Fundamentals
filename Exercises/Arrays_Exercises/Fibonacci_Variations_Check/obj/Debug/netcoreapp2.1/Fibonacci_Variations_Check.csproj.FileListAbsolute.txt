@@ -1,0 +1,10 @@
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\Fibonacci_Variations_Check\bin\Debug\netcoreapp2.1\Fibonacci_Variations_Check.deps.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\Fibonacci_Variations_Check\bin\Debug\netcoreapp2.1\Fibonacci_Variations_Check.runtimeconfig.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\Fibonacci_Variations_Check\bin\Debug\netcoreapp2.1\Fibonacci_Variations_Check.runtimeconfig.dev.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\Fibonacci_Variations_Check\bin\Debug\netcoreapp2.1\Fibonacci_Variations_Check.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\Fibonacci_Variations_Check\bin\Debug\netcoreapp2.1\Fibonacci_Variations_Check.pdb
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\Fibonacci_Variations_Check\obj\Debug\netcoreapp2.1\Fibonacci_Variations_Check.csproj.CoreCompileInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\Fibonacci_Variations_Check\obj\Debug\netcoreapp2.1\Fibonacci_Variations_Check.AssemblyInfoInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\Fibonacci_Variations_Check\obj\Debug\netcoreapp2.1\Fibonacci_Variations_Check.AssemblyInfo.cs
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\Fibonacci_Variations_Check\obj\Debug\netcoreapp2.1\Fibonacci_Variations_Check.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\Fibonacci_Variations_Check\obj\Debug\netcoreapp2.1\Fibonacci_Variations_Check.pdb

@@ -1,0 +1,11 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\04.Caeser_Cipher\bin\Debug\netcoreapp2.1\04.Caeser_Cipher.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\04.Caeser_Cipher\bin\Debug\netcoreapp2.1\04.Caeser_Cipher.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\04.Caeser_Cipher\bin\Debug\netcoreapp2.1\04.Caeser_Cipher.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\04.Caeser_Cipher\bin\Debug\netcoreapp2.1\04.Caeser_Cipher.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\04.Caeser_Cipher\bin\Debug\netcoreapp2.1\04.Caeser_Cipher.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\04.Caeser_Cipher\obj\Debug\netcoreapp2.1\04.Caeser_Cipher.csprojAssemblyReference.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\04.Caeser_Cipher\obj\Debug\netcoreapp2.1\04.Caeser_Cipher.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\04.Caeser_Cipher\obj\Debug\netcoreapp2.1\04.Caeser_Cipher.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\04.Caeser_Cipher\obj\Debug\netcoreapp2.1\04.Caeser_Cipher.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\04.Caeser_Cipher\obj\Debug\netcoreapp2.1\04.Caeser_Cipher.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\04.Caeser_Cipher\obj\Debug\netcoreapp2.1\04.Caeser_Cipher.pdb

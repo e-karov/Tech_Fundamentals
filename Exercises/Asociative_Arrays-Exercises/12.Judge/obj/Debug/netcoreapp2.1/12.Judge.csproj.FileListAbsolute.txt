@@ -1,0 +1,11 @@
+D:\VS_Source\Asociative_Arrays-Exercises\12.Judge\bin\Debug\netcoreapp2.1\12.Judge.deps.json
+D:\VS_Source\Asociative_Arrays-Exercises\12.Judge\bin\Debug\netcoreapp2.1\12.Judge.runtimeconfig.json
+D:\VS_Source\Asociative_Arrays-Exercises\12.Judge\bin\Debug\netcoreapp2.1\12.Judge.runtimeconfig.dev.json
+D:\VS_Source\Asociative_Arrays-Exercises\12.Judge\bin\Debug\netcoreapp2.1\12.Judge.dll
+D:\VS_Source\Asociative_Arrays-Exercises\12.Judge\bin\Debug\netcoreapp2.1\12.Judge.pdb
+D:\VS_Source\Asociative_Arrays-Exercises\12.Judge\obj\Debug\netcoreapp2.1\12.Judge.csprojAssemblyReference.cache
+D:\VS_Source\Asociative_Arrays-Exercises\12.Judge\obj\Debug\netcoreapp2.1\12.Judge.csproj.CoreCompileInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\12.Judge\obj\Debug\netcoreapp2.1\12.Judge.AssemblyInfoInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\12.Judge\obj\Debug\netcoreapp2.1\12.Judge.AssemblyInfo.cs
+D:\VS_Source\Asociative_Arrays-Exercises\12.Judge\obj\Debug\netcoreapp2.1\12.Judge.dll
+D:\VS_Source\Asociative_Arrays-Exercises\12.Judge\obj\Debug\netcoreapp2.1\12.Judge.pdb

@@ -1,0 +1,11 @@
+D:\VS_Source\Asociative_Arrays-Exercises\13.MOBA_Challenger\bin\Debug\netcoreapp2.1\13.MOBA_Challenger.deps.json
+D:\VS_Source\Asociative_Arrays-Exercises\13.MOBA_Challenger\bin\Debug\netcoreapp2.1\13.MOBA_Challenger.runtimeconfig.json
+D:\VS_Source\Asociative_Arrays-Exercises\13.MOBA_Challenger\bin\Debug\netcoreapp2.1\13.MOBA_Challenger.runtimeconfig.dev.json
+D:\VS_Source\Asociative_Arrays-Exercises\13.MOBA_Challenger\bin\Debug\netcoreapp2.1\13.MOBA_Challenger.dll
+D:\VS_Source\Asociative_Arrays-Exercises\13.MOBA_Challenger\bin\Debug\netcoreapp2.1\13.MOBA_Challenger.pdb
+D:\VS_Source\Asociative_Arrays-Exercises\13.MOBA_Challenger\obj\Debug\netcoreapp2.1\13.MOBA_Challenger.csprojAssemblyReference.cache
+D:\VS_Source\Asociative_Arrays-Exercises\13.MOBA_Challenger\obj\Debug\netcoreapp2.1\13.MOBA_Challenger.csproj.CoreCompileInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\13.MOBA_Challenger\obj\Debug\netcoreapp2.1\13.MOBA_Challenger.AssemblyInfoInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\13.MOBA_Challenger\obj\Debug\netcoreapp2.1\13.MOBA_Challenger.AssemblyInfo.cs
+D:\VS_Source\Asociative_Arrays-Exercises\13.MOBA_Challenger\obj\Debug\netcoreapp2.1\13.MOBA_Challenger.dll
+D:\VS_Source\Asociative_Arrays-Exercises\13.MOBA_Challenger\obj\Debug\netcoreapp2.1\13.MOBA_Challenger.pdb

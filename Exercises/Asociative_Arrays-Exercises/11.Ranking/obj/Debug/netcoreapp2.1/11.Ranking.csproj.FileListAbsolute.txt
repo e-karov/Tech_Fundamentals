@@ -1,0 +1,11 @@
+D:\VS_Source\Asociative_Arrays-Exercises\11.Ranking\bin\Debug\netcoreapp2.1\11.Ranking.deps.json
+D:\VS_Source\Asociative_Arrays-Exercises\11.Ranking\bin\Debug\netcoreapp2.1\11.Ranking.runtimeconfig.json
+D:\VS_Source\Asociative_Arrays-Exercises\11.Ranking\bin\Debug\netcoreapp2.1\11.Ranking.runtimeconfig.dev.json
+D:\VS_Source\Asociative_Arrays-Exercises\11.Ranking\bin\Debug\netcoreapp2.1\11.Ranking.dll
+D:\VS_Source\Asociative_Arrays-Exercises\11.Ranking\bin\Debug\netcoreapp2.1\11.Ranking.pdb
+D:\VS_Source\Asociative_Arrays-Exercises\11.Ranking\obj\Debug\netcoreapp2.1\11.Ranking.csprojAssemblyReference.cache
+D:\VS_Source\Asociative_Arrays-Exercises\11.Ranking\obj\Debug\netcoreapp2.1\11.Ranking.csproj.CoreCompileInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\11.Ranking\obj\Debug\netcoreapp2.1\11.Ranking.AssemblyInfoInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\11.Ranking\obj\Debug\netcoreapp2.1\11.Ranking.AssemblyInfo.cs
+D:\VS_Source\Asociative_Arrays-Exercises\11.Ranking\obj\Debug\netcoreapp2.1\11.Ranking.dll
+D:\VS_Source\Asociative_Arrays-Exercises\11.Ranking\obj\Debug\netcoreapp2.1\11.Ranking.pdb

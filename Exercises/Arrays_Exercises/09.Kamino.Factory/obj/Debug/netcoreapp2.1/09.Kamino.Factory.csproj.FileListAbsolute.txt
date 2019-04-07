@@ -1,0 +1,11 @@
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\09.Kamino.Factory\bin\Debug\netcoreapp2.1\09.Kamino.Factory.deps.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\09.Kamino.Factory\bin\Debug\netcoreapp2.1\09.Kamino.Factory.runtimeconfig.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\09.Kamino.Factory\bin\Debug\netcoreapp2.1\09.Kamino.Factory.runtimeconfig.dev.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\09.Kamino.Factory\bin\Debug\netcoreapp2.1\09.Kamino.Factory.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\09.Kamino.Factory\bin\Debug\netcoreapp2.1\09.Kamino.Factory.pdb
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\09.Kamino.Factory\obj\Debug\netcoreapp2.1\09.Kamino.Factory.csprojAssemblyReference.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\09.Kamino.Factory\obj\Debug\netcoreapp2.1\09.Kamino.Factory.csproj.CoreCompileInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\09.Kamino.Factory\obj\Debug\netcoreapp2.1\09.Kamino.Factory.AssemblyInfoInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\09.Kamino.Factory\obj\Debug\netcoreapp2.1\09.Kamino.Factory.AssemblyInfo.cs
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\09.Kamino.Factory\obj\Debug\netcoreapp2.1\09.Kamino.Factory.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\09.Kamino.Factory\obj\Debug\netcoreapp2.1\09.Kamino.Factory.pdb

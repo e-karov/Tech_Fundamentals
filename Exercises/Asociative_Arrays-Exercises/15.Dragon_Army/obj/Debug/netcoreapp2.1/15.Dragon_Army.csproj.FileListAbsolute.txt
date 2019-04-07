@@ -1,0 +1,11 @@
+D:\VS_Source\Asociative_Arrays-Exercises\15.Dragon_Army\bin\Debug\netcoreapp2.1\15.Dragon_Army.deps.json
+D:\VS_Source\Asociative_Arrays-Exercises\15.Dragon_Army\bin\Debug\netcoreapp2.1\15.Dragon_Army.runtimeconfig.json
+D:\VS_Source\Asociative_Arrays-Exercises\15.Dragon_Army\bin\Debug\netcoreapp2.1\15.Dragon_Army.runtimeconfig.dev.json
+D:\VS_Source\Asociative_Arrays-Exercises\15.Dragon_Army\bin\Debug\netcoreapp2.1\15.Dragon_Army.dll
+D:\VS_Source\Asociative_Arrays-Exercises\15.Dragon_Army\bin\Debug\netcoreapp2.1\15.Dragon_Army.pdb
+D:\VS_Source\Asociative_Arrays-Exercises\15.Dragon_Army\obj\Debug\netcoreapp2.1\15.Dragon_Army.csprojAssemblyReference.cache
+D:\VS_Source\Asociative_Arrays-Exercises\15.Dragon_Army\obj\Debug\netcoreapp2.1\15.Dragon_Army.csproj.CoreCompileInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\15.Dragon_Army\obj\Debug\netcoreapp2.1\15.Dragon_Army.AssemblyInfoInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\15.Dragon_Army\obj\Debug\netcoreapp2.1\15.Dragon_Army.AssemblyInfo.cs
+D:\VS_Source\Asociative_Arrays-Exercises\15.Dragon_Army\obj\Debug\netcoreapp2.1\15.Dragon_Army.dll
+D:\VS_Source\Asociative_Arrays-Exercises\15.Dragon_Army\obj\Debug\netcoreapp2.1\15.Dragon_Army.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\Sort Times\bin\Debug\netcoreapp2.1\Sort Times.deps.json
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\Sort Times\bin\Debug\netcoreapp2.1\Sort Times.runtimeconfig.json
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\Sort Times\bin\Debug\netcoreapp2.1\Sort Times.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\Sort Times\bin\Debug\netcoreapp2.1\Sort Times.dll
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\Sort Times\bin\Debug\netcoreapp2.1\Sort Times.pdb
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\Sort Times\obj\Debug\netcoreapp2.1\Sort Times.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\Sort Times\obj\Debug\netcoreapp2.1\Sort Times.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\Sort Times\obj\Debug\netcoreapp2.1\Sort Times.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\Sort Times\obj\Debug\netcoreapp2.1\Sort Times.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\Sort Times\obj\Debug\netcoreapp2.1\Sort Times.dll
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\Sort Times\obj\Debug\netcoreapp2.1\Sort Times.pdb

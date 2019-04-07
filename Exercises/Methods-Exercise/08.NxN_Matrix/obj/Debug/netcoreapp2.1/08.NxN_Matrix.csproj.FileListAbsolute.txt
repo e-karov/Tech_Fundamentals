@@ -1,0 +1,10 @@
+D:\Repos\Methods-Exercise\08.NxN_Matrix\bin\Debug\netcoreapp2.1\08.NxN_Matrix.deps.json
+D:\Repos\Methods-Exercise\08.NxN_Matrix\bin\Debug\netcoreapp2.1\08.NxN_Matrix.runtimeconfig.json
+D:\Repos\Methods-Exercise\08.NxN_Matrix\bin\Debug\netcoreapp2.1\08.NxN_Matrix.runtimeconfig.dev.json
+D:\Repos\Methods-Exercise\08.NxN_Matrix\bin\Debug\netcoreapp2.1\08.NxN_Matrix.dll
+D:\Repos\Methods-Exercise\08.NxN_Matrix\bin\Debug\netcoreapp2.1\08.NxN_Matrix.pdb
+D:\Repos\Methods-Exercise\08.NxN_Matrix\obj\Debug\netcoreapp2.1\08.NxN_Matrix.csproj.CoreCompileInputs.cache
+D:\Repos\Methods-Exercise\08.NxN_Matrix\obj\Debug\netcoreapp2.1\08.NxN_Matrix.AssemblyInfoInputs.cache
+D:\Repos\Methods-Exercise\08.NxN_Matrix\obj\Debug\netcoreapp2.1\08.NxN_Matrix.AssemblyInfo.cs
+D:\Repos\Methods-Exercise\08.NxN_Matrix\obj\Debug\netcoreapp2.1\08.NxN_Matrix.dll
+D:\Repos\Methods-Exercise\08.NxN_Matrix\obj\Debug\netcoreapp2.1\08.NxN_Matrix.pdb

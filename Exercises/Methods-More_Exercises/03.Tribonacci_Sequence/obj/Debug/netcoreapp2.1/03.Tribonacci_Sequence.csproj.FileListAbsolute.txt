@@ -1,0 +1,11 @@
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Tribonacci_Sequence\bin\Debug\netcoreapp2.1\03.Tribonacci_Sequence.deps.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Tribonacci_Sequence\bin\Debug\netcoreapp2.1\03.Tribonacci_Sequence.runtimeconfig.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Tribonacci_Sequence\bin\Debug\netcoreapp2.1\03.Tribonacci_Sequence.runtimeconfig.dev.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Tribonacci_Sequence\bin\Debug\netcoreapp2.1\03.Tribonacci_Sequence.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Tribonacci_Sequence\bin\Debug\netcoreapp2.1\03.Tribonacci_Sequence.pdb
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Tribonacci_Sequence\obj\Debug\netcoreapp2.1\03.Tribonacci_Sequence.csprojAssemblyReference.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Tribonacci_Sequence\obj\Debug\netcoreapp2.1\03.Tribonacci_Sequence.csproj.CoreCompileInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Tribonacci_Sequence\obj\Debug\netcoreapp2.1\03.Tribonacci_Sequence.AssemblyInfoInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Tribonacci_Sequence\obj\Debug\netcoreapp2.1\03.Tribonacci_Sequence.AssemblyInfo.cs
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Tribonacci_Sequence\obj\Debug\netcoreapp2.1\03.Tribonacci_Sequence.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Methods-More_Exercises\03.Tribonacci_Sequence\obj\Debug\netcoreapp2.1\03.Tribonacci_Sequence.pdb

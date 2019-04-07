@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\6. Heists\bin\Debug\netcoreapp2.1\6. Heists.deps.json
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\6. Heists\bin\Debug\netcoreapp2.1\6. Heists.runtimeconfig.json
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\6. Heists\bin\Debug\netcoreapp2.1\6. Heists.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\6. Heists\bin\Debug\netcoreapp2.1\6. Heists.dll
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\6. Heists\bin\Debug\netcoreapp2.1\6. Heists.pdb
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\6. Heists\obj\Debug\netcoreapp2.1\6. Heists.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\6. Heists\obj\Debug\netcoreapp2.1\6. Heists.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\6. Heists\obj\Debug\netcoreapp2.1\6. Heists.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\6. Heists\obj\Debug\netcoreapp2.1\6. Heists.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\6. Heists\obj\Debug\netcoreapp2.1\6. Heists.dll
+C:\Users\Admin\source\repos\Dictionaries and Lists - More Exercises\6. Heists\obj\Debug\netcoreapp2.1\6. Heists.pdb

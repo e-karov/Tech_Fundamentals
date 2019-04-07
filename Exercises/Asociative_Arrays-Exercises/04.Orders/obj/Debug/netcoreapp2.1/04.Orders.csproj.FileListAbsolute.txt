@@ -1,0 +1,11 @@
+D:\VS_Source\Asociative_Arrays-Exercises\04.Orders\bin\Debug\netcoreapp2.1\04.Orders.deps.json
+D:\VS_Source\Asociative_Arrays-Exercises\04.Orders\bin\Debug\netcoreapp2.1\04.Orders.runtimeconfig.json
+D:\VS_Source\Asociative_Arrays-Exercises\04.Orders\bin\Debug\netcoreapp2.1\04.Orders.runtimeconfig.dev.json
+D:\VS_Source\Asociative_Arrays-Exercises\04.Orders\bin\Debug\netcoreapp2.1\04.Orders.dll
+D:\VS_Source\Asociative_Arrays-Exercises\04.Orders\bin\Debug\netcoreapp2.1\04.Orders.pdb
+D:\VS_Source\Asociative_Arrays-Exercises\04.Orders\obj\Debug\netcoreapp2.1\04.Orders.csprojAssemblyReference.cache
+D:\VS_Source\Asociative_Arrays-Exercises\04.Orders\obj\Debug\netcoreapp2.1\04.Orders.csproj.CoreCompileInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\04.Orders\obj\Debug\netcoreapp2.1\04.Orders.AssemblyInfoInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\04.Orders\obj\Debug\netcoreapp2.1\04.Orders.AssemblyInfo.cs
+D:\VS_Source\Asociative_Arrays-Exercises\04.Orders\obj\Debug\netcoreapp2.1\04.Orders.dll
+D:\VS_Source\Asociative_Arrays-Exercises\04.Orders\obj\Debug\netcoreapp2.1\04.Orders.pdb

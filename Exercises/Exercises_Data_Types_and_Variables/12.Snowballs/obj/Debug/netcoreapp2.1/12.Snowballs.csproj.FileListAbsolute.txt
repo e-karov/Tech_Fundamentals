@@ -1,0 +1,11 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\12.Snowballs\bin\Debug\netcoreapp2.1\12.Snowballs.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\12.Snowballs\bin\Debug\netcoreapp2.1\12.Snowballs.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\12.Snowballs\bin\Debug\netcoreapp2.1\12.Snowballs.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\12.Snowballs\bin\Debug\netcoreapp2.1\12.Snowballs.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\12.Snowballs\bin\Debug\netcoreapp2.1\12.Snowballs.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\12.Snowballs\obj\Debug\netcoreapp2.1\12.Snowballs.csprojAssemblyReference.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\12.Snowballs\obj\Debug\netcoreapp2.1\12.Snowballs.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\12.Snowballs\obj\Debug\netcoreapp2.1\12.Snowballs.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\12.Snowballs\obj\Debug\netcoreapp2.1\12.Snowballs.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\12.Snowballs\obj\Debug\netcoreapp2.1\12.Snowballs.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\12.Snowballs\obj\Debug\netcoreapp2.1\12.Snowballs.pdb

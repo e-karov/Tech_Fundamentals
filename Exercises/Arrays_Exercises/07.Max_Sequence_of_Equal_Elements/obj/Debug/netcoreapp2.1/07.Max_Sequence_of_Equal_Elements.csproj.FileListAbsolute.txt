@@ -1,0 +1,11 @@
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\07.Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp2.1\07.Max_Sequence_of_Equal_Elements.deps.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\07.Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp2.1\07.Max_Sequence_of_Equal_Elements.runtimeconfig.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\07.Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp2.1\07.Max_Sequence_of_Equal_Elements.runtimeconfig.dev.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\07.Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp2.1\07.Max_Sequence_of_Equal_Elements.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\07.Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp2.1\07.Max_Sequence_of_Equal_Elements.pdb
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\07.Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp2.1\07.Max_Sequence_of_Equal_Elements.csprojAssemblyReference.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\07.Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp2.1\07.Max_Sequence_of_Equal_Elements.csproj.CoreCompileInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\07.Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp2.1\07.Max_Sequence_of_Equal_Elements.AssemblyInfoInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\07.Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp2.1\07.Max_Sequence_of_Equal_Elements.AssemblyInfo.cs
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\07.Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp2.1\07.Max_Sequence_of_Equal_Elements.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\07.Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp2.1\07.Max_Sequence_of_Equal_Elements.pdb

@@ -1,0 +1,11 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\02.Data_Type_Finder\bin\Debug\netcoreapp2.1\02.Data_Type_Finder.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\02.Data_Type_Finder\bin\Debug\netcoreapp2.1\02.Data_Type_Finder.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\02.Data_Type_Finder\bin\Debug\netcoreapp2.1\02.Data_Type_Finder.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\02.Data_Type_Finder\bin\Debug\netcoreapp2.1\02.Data_Type_Finder.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\02.Data_Type_Finder\bin\Debug\netcoreapp2.1\02.Data_Type_Finder.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\02.Data_Type_Finder\obj\Debug\netcoreapp2.1\02.Data_Type_Finder.csprojAssemblyReference.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\02.Data_Type_Finder\obj\Debug\netcoreapp2.1\02.Data_Type_Finder.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\02.Data_Type_Finder\obj\Debug\netcoreapp2.1\02.Data_Type_Finder.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\02.Data_Type_Finder\obj\Debug\netcoreapp2.1\02.Data_Type_Finder.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\02.Data_Type_Finder\obj\Debug\netcoreapp2.1\02.Data_Type_Finder.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\02.Data_Type_Finder\obj\Debug\netcoreapp2.1\02.Data_Type_Finder.pdb

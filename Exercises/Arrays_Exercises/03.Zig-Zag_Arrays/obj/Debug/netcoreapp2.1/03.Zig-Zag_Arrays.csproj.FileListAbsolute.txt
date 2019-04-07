@@ -1,0 +1,10 @@
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\03.Zig-Zag_Arrays\bin\Debug\netcoreapp2.1\03.Zig-Zag_Arrays.deps.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\03.Zig-Zag_Arrays\bin\Debug\netcoreapp2.1\03.Zig-Zag_Arrays.runtimeconfig.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\03.Zig-Zag_Arrays\bin\Debug\netcoreapp2.1\03.Zig-Zag_Arrays.runtimeconfig.dev.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\03.Zig-Zag_Arrays\bin\Debug\netcoreapp2.1\03.Zig-Zag_Arrays.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\03.Zig-Zag_Arrays\bin\Debug\netcoreapp2.1\03.Zig-Zag_Arrays.pdb
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\03.Zig-Zag_Arrays\obj\Debug\netcoreapp2.1\03.Zig-Zag_Arrays.csproj.CoreCompileInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\03.Zig-Zag_Arrays\obj\Debug\netcoreapp2.1\03.Zig-Zag_Arrays.AssemblyInfoInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\03.Zig-Zag_Arrays\obj\Debug\netcoreapp2.1\03.Zig-Zag_Arrays.AssemblyInfo.cs
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\03.Zig-Zag_Arrays\obj\Debug\netcoreapp2.1\03.Zig-Zag_Arrays.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\03.Zig-Zag_Arrays\obj\Debug\netcoreapp2.1\03.Zig-Zag_Arrays.pdb

@@ -1,0 +1,10 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\07.Water_Overflow\bin\Debug\netcoreapp2.1\07.Water_Overflow.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\07.Water_Overflow\bin\Debug\netcoreapp2.1\07.Water_Overflow.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\07.Water_Overflow\bin\Debug\netcoreapp2.1\07.Water_Overflow.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\07.Water_Overflow\bin\Debug\netcoreapp2.1\07.Water_Overflow.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\07.Water_Overflow\bin\Debug\netcoreapp2.1\07.Water_Overflow.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\07.Water_Overflow\obj\Debug\netcoreapp2.1\07.Water_Overflow.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\07.Water_Overflow\obj\Debug\netcoreapp2.1\07.Water_Overflow.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\07.Water_Overflow\obj\Debug\netcoreapp2.1\07.Water_Overflow.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\07.Water_Overflow\obj\Debug\netcoreapp2.1\07.Water_Overflow.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\07.Water_Overflow\obj\Debug\netcoreapp2.1\07.Water_Overflow.pdb

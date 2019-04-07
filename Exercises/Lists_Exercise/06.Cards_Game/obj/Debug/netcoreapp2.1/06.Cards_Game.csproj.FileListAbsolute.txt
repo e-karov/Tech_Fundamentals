@@ -1,0 +1,11 @@
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\06.Cards_Game\bin\Debug\netcoreapp2.1\06.Cards_Game.deps.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\06.Cards_Game\bin\Debug\netcoreapp2.1\06.Cards_Game.runtimeconfig.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\06.Cards_Game\bin\Debug\netcoreapp2.1\06.Cards_Game.runtimeconfig.dev.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\06.Cards_Game\bin\Debug\netcoreapp2.1\06.Cards_Game.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\06.Cards_Game\bin\Debug\netcoreapp2.1\06.Cards_Game.pdb
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\06.Cards_Game\obj\Debug\netcoreapp2.1\06.Cards_Game.csprojAssemblyReference.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\06.Cards_Game\obj\Debug\netcoreapp2.1\06.Cards_Game.csproj.CoreCompileInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\06.Cards_Game\obj\Debug\netcoreapp2.1\06.Cards_Game.AssemblyInfoInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\06.Cards_Game\obj\Debug\netcoreapp2.1\06.Cards_Game.AssemblyInfo.cs
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\06.Cards_Game\obj\Debug\netcoreapp2.1\06.Cards_Game.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\06.Cards_Game\obj\Debug\netcoreapp2.1\06.Cards_Game.pdb

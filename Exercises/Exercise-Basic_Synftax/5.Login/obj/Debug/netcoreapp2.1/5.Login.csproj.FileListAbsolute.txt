@@ -1,0 +1,10 @@
+D:\Repos\Homewowrks\5.Login\bin\Debug\netcoreapp2.1\5.Login.deps.json
+D:\Repos\Homewowrks\5.Login\bin\Debug\netcoreapp2.1\5.Login.runtimeconfig.json
+D:\Repos\Homewowrks\5.Login\bin\Debug\netcoreapp2.1\5.Login.runtimeconfig.dev.json
+D:\Repos\Homewowrks\5.Login\bin\Debug\netcoreapp2.1\5.Login.dll
+D:\Repos\Homewowrks\5.Login\bin\Debug\netcoreapp2.1\5.Login.pdb
+D:\Repos\Homewowrks\5.Login\obj\Debug\netcoreapp2.1\5.Login.csproj.CoreCompileInputs.cache
+D:\Repos\Homewowrks\5.Login\obj\Debug\netcoreapp2.1\5.Login.AssemblyInfoInputs.cache
+D:\Repos\Homewowrks\5.Login\obj\Debug\netcoreapp2.1\5.Login.AssemblyInfo.cs
+D:\Repos\Homewowrks\5.Login\obj\Debug\netcoreapp2.1\5.Login.dll
+D:\Repos\Homewowrks\5.Login\obj\Debug\netcoreapp2.1\5.Login.pdb

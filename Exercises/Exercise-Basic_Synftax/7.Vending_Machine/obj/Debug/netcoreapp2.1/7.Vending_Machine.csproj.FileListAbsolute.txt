@@ -1,0 +1,11 @@
+D:\Repos\Homewowrks\7.Vending_Machine\bin\Debug\netcoreapp2.1\7.Vending_Machine.deps.json
+D:\Repos\Homewowrks\7.Vending_Machine\bin\Debug\netcoreapp2.1\7.Vending_Machine.runtimeconfig.json
+D:\Repos\Homewowrks\7.Vending_Machine\bin\Debug\netcoreapp2.1\7.Vending_Machine.runtimeconfig.dev.json
+D:\Repos\Homewowrks\7.Vending_Machine\bin\Debug\netcoreapp2.1\7.Vending_Machine.dll
+D:\Repos\Homewowrks\7.Vending_Machine\bin\Debug\netcoreapp2.1\7.Vending_Machine.pdb
+D:\Repos\Homewowrks\7.Vending_Machine\obj\Debug\netcoreapp2.1\7.Vending_Machine.csprojAssemblyReference.cache
+D:\Repos\Homewowrks\7.Vending_Machine\obj\Debug\netcoreapp2.1\7.Vending_Machine.csproj.CoreCompileInputs.cache
+D:\Repos\Homewowrks\7.Vending_Machine\obj\Debug\netcoreapp2.1\7.Vending_Machine.AssemblyInfoInputs.cache
+D:\Repos\Homewowrks\7.Vending_Machine\obj\Debug\netcoreapp2.1\7.Vending_Machine.AssemblyInfo.cs
+D:\Repos\Homewowrks\7.Vending_Machine\obj\Debug\netcoreapp2.1\7.Vending_Machine.dll
+D:\Repos\Homewowrks\7.Vending_Machine\obj\Debug\netcoreapp2.1\7.Vending_Machine.pdb

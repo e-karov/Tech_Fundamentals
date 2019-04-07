@@ -1,0 +1,10 @@
+D:\Repos\Homewowrks\9.Triangle_of_Numbers\bin\Debug\netcoreapp2.1\9.Triangle_of_Numbers.deps.json
+D:\Repos\Homewowrks\9.Triangle_of_Numbers\bin\Debug\netcoreapp2.1\9.Triangle_of_Numbers.runtimeconfig.json
+D:\Repos\Homewowrks\9.Triangle_of_Numbers\bin\Debug\netcoreapp2.1\9.Triangle_of_Numbers.runtimeconfig.dev.json
+D:\Repos\Homewowrks\9.Triangle_of_Numbers\bin\Debug\netcoreapp2.1\9.Triangle_of_Numbers.dll
+D:\Repos\Homewowrks\9.Triangle_of_Numbers\bin\Debug\netcoreapp2.1\9.Triangle_of_Numbers.pdb
+D:\Repos\Homewowrks\9.Triangle_of_Numbers\obj\Debug\netcoreapp2.1\9.Triangle_of_Numbers.csproj.CoreCompileInputs.cache
+D:\Repos\Homewowrks\9.Triangle_of_Numbers\obj\Debug\netcoreapp2.1\9.Triangle_of_Numbers.AssemblyInfoInputs.cache
+D:\Repos\Homewowrks\9.Triangle_of_Numbers\obj\Debug\netcoreapp2.1\9.Triangle_of_Numbers.AssemblyInfo.cs
+D:\Repos\Homewowrks\9.Triangle_of_Numbers\obj\Debug\netcoreapp2.1\9.Triangle_of_Numbers.dll
+D:\Repos\Homewowrks\9.Triangle_of_Numbers\obj\Debug\netcoreapp2.1\9.Triangle_of_Numbers.pdb

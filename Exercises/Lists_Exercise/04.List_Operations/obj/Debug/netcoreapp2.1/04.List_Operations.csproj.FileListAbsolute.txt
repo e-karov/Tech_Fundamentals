@@ -1,0 +1,11 @@
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\04.List_Operations\bin\Debug\netcoreapp2.1\04.List_Operations.deps.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\04.List_Operations\bin\Debug\netcoreapp2.1\04.List_Operations.runtimeconfig.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\04.List_Operations\bin\Debug\netcoreapp2.1\04.List_Operations.runtimeconfig.dev.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\04.List_Operations\bin\Debug\netcoreapp2.1\04.List_Operations.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\04.List_Operations\bin\Debug\netcoreapp2.1\04.List_Operations.pdb
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\04.List_Operations\obj\Debug\netcoreapp2.1\04.List_Operations.csprojAssemblyReference.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\04.List_Operations\obj\Debug\netcoreapp2.1\04.List_Operations.csproj.CoreCompileInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\04.List_Operations\obj\Debug\netcoreapp2.1\04.List_Operations.AssemblyInfoInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\04.List_Operations\obj\Debug\netcoreapp2.1\04.List_Operations.AssemblyInfo.cs
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\04.List_Operations\obj\Debug\netcoreapp2.1\04.List_Operations.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\04.List_Operations\obj\Debug\netcoreapp2.1\04.List_Operations.pdb

@@ -1,0 +1,11 @@
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\05.Bomb_Numbers\bin\Debug\netcoreapp2.1\05.Bomb_Numbers.deps.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\05.Bomb_Numbers\bin\Debug\netcoreapp2.1\05.Bomb_Numbers.runtimeconfig.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\05.Bomb_Numbers\bin\Debug\netcoreapp2.1\05.Bomb_Numbers.runtimeconfig.dev.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\05.Bomb_Numbers\bin\Debug\netcoreapp2.1\05.Bomb_Numbers.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\05.Bomb_Numbers\bin\Debug\netcoreapp2.1\05.Bomb_Numbers.pdb
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\05.Bomb_Numbers\obj\Debug\netcoreapp2.1\05.Bomb_Numbers.csprojAssemblyReference.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\05.Bomb_Numbers\obj\Debug\netcoreapp2.1\05.Bomb_Numbers.csproj.CoreCompileInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\05.Bomb_Numbers\obj\Debug\netcoreapp2.1\05.Bomb_Numbers.AssemblyInfoInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\05.Bomb_Numbers\obj\Debug\netcoreapp2.1\05.Bomb_Numbers.AssemblyInfo.cs
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\05.Bomb_Numbers\obj\Debug\netcoreapp2.1\05.Bomb_Numbers.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\05.Bomb_Numbers\obj\Debug\netcoreapp2.1\05.Bomb_Numbers.pdb

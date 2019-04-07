@@ -1,0 +1,10 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\07.Matching_Numbers\bin\Debug\netcoreapp2.1\07.Matching_Numbers.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\07.Matching_Numbers\bin\Debug\netcoreapp2.1\07.Matching_Numbers.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\07.Matching_Numbers\bin\Debug\netcoreapp2.1\07.Matching_Numbers.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\07.Matching_Numbers\bin\Debug\netcoreapp2.1\07.Matching_Numbers.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\07.Matching_Numbers\bin\Debug\netcoreapp2.1\07.Matching_Numbers.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\07.Matching_Numbers\obj\Debug\netcoreapp2.1\07.Matching_Numbers.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\07.Matching_Numbers\obj\Debug\netcoreapp2.1\07.Matching_Numbers.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\07.Matching_Numbers\obj\Debug\netcoreapp2.1\07.Matching_Numbers.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\07.Matching_Numbers\obj\Debug\netcoreapp2.1\07.Matching_Numbers.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\07.Matching_Numbers\obj\Debug\netcoreapp2.1\07.Matching_Numbers.pdb

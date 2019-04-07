@@ -1,0 +1,10 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\09.Rage_Quit\bin\Debug\netcoreapp2.1\09.Rage_Quit.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\09.Rage_Quit\bin\Debug\netcoreapp2.1\09.Rage_Quit.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\09.Rage_Quit\bin\Debug\netcoreapp2.1\09.Rage_Quit.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\09.Rage_Quit\bin\Debug\netcoreapp2.1\09.Rage_Quit.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\09.Rage_Quit\bin\Debug\netcoreapp2.1\09.Rage_Quit.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\09.Rage_Quit\obj\Debug\netcoreapp2.1\09.Rage_Quit.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\09.Rage_Quit\obj\Debug\netcoreapp2.1\09.Rage_Quit.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\09.Rage_Quit\obj\Debug\netcoreapp2.1\09.Rage_Quit.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\09.Rage_Quit\obj\Debug\netcoreapp2.1\09.Rage_Quit.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\09.Rage_Quit\obj\Debug\netcoreapp2.1\09.Rage_Quit.pdb

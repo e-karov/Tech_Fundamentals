@@ -1,0 +1,10 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.Replace_Repeating_Chars\bin\Debug\netcoreapp2.1\06.Replace_Repeating_Chars.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.Replace_Repeating_Chars\bin\Debug\netcoreapp2.1\06.Replace_Repeating_Chars.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.Replace_Repeating_Chars\bin\Debug\netcoreapp2.1\06.Replace_Repeating_Chars.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.Replace_Repeating_Chars\bin\Debug\netcoreapp2.1\06.Replace_Repeating_Chars.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.Replace_Repeating_Chars\bin\Debug\netcoreapp2.1\06.Replace_Repeating_Chars.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.Replace_Repeating_Chars\obj\Debug\netcoreapp2.1\06.Replace_Repeating_Chars.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.Replace_Repeating_Chars\obj\Debug\netcoreapp2.1\06.Replace_Repeating_Chars.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.Replace_Repeating_Chars\obj\Debug\netcoreapp2.1\06.Replace_Repeating_Chars.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.Replace_Repeating_Chars\obj\Debug\netcoreapp2.1\06.Replace_Repeating_Chars.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\06.Replace_Repeating_Chars\obj\Debug\netcoreapp2.1\06.Replace_Repeating_Chars.pdb

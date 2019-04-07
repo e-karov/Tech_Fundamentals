@@ -1,0 +1,11 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\05.Multiply_Big_Number\bin\Debug\netcoreapp2.1\05.Multiply_Big_Number.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\05.Multiply_Big_Number\bin\Debug\netcoreapp2.1\05.Multiply_Big_Number.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\05.Multiply_Big_Number\bin\Debug\netcoreapp2.1\05.Multiply_Big_Number.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\05.Multiply_Big_Number\bin\Debug\netcoreapp2.1\05.Multiply_Big_Number.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\05.Multiply_Big_Number\bin\Debug\netcoreapp2.1\05.Multiply_Big_Number.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\05.Multiply_Big_Number\obj\Debug\netcoreapp2.1\05.Multiply_Big_Number.csprojAssemblyReference.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\05.Multiply_Big_Number\obj\Debug\netcoreapp2.1\05.Multiply_Big_Number.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\05.Multiply_Big_Number\obj\Debug\netcoreapp2.1\05.Multiply_Big_Number.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\05.Multiply_Big_Number\obj\Debug\netcoreapp2.1\05.Multiply_Big_Number.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\05.Multiply_Big_Number\obj\Debug\netcoreapp2.1\05.Multiply_Big_Number.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\05.Multiply_Big_Number\obj\Debug\netcoreapp2.1\05.Multiply_Big_Number.pdb

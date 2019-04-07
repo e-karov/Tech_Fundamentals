@@ -1,0 +1,10 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\06.Decrypting_Messages\bin\Debug\netcoreapp2.1\06.Decrypting_Messages.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\06.Decrypting_Messages\bin\Debug\netcoreapp2.1\06.Decrypting_Messages.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\06.Decrypting_Messages\bin\Debug\netcoreapp2.1\06.Decrypting_Messages.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\06.Decrypting_Messages\bin\Debug\netcoreapp2.1\06.Decrypting_Messages.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\06.Decrypting_Messages\bin\Debug\netcoreapp2.1\06.Decrypting_Messages.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\06.Decrypting_Messages\obj\Debug\netcoreapp2.1\06.Decrypting_Messages.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\06.Decrypting_Messages\obj\Debug\netcoreapp2.1\06.Decrypting_Messages.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\06.Decrypting_Messages\obj\Debug\netcoreapp2.1\06.Decrypting_Messages.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\06.Decrypting_Messages\obj\Debug\netcoreapp2.1\06.Decrypting_Messages.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\More_Exercises-Data_Types\06.Decrypting_Messages\obj\Debug\netcoreapp2.1\06.Decrypting_Messages.pdb

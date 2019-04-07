@@ -1,0 +1,11 @@
+D:\Repos\More_Exercices-I\2.Sort_Numbers\bin\Debug\netcoreapp2.1\2.Sort_Numbers.deps.json
+D:\Repos\More_Exercices-I\2.Sort_Numbers\bin\Debug\netcoreapp2.1\2.Sort_Numbers.runtimeconfig.json
+D:\Repos\More_Exercices-I\2.Sort_Numbers\bin\Debug\netcoreapp2.1\2.Sort_Numbers.runtimeconfig.dev.json
+D:\Repos\More_Exercices-I\2.Sort_Numbers\bin\Debug\netcoreapp2.1\2.Sort_Numbers.dll
+D:\Repos\More_Exercices-I\2.Sort_Numbers\bin\Debug\netcoreapp2.1\2.Sort_Numbers.pdb
+D:\Repos\More_Exercices-I\2.Sort_Numbers\obj\Debug\netcoreapp2.1\2.Sort_Numbers.csprojAssemblyReference.cache
+D:\Repos\More_Exercices-I\2.Sort_Numbers\obj\Debug\netcoreapp2.1\2.Sort_Numbers.csproj.CoreCompileInputs.cache
+D:\Repos\More_Exercices-I\2.Sort_Numbers\obj\Debug\netcoreapp2.1\2.Sort_Numbers.AssemblyInfoInputs.cache
+D:\Repos\More_Exercices-I\2.Sort_Numbers\obj\Debug\netcoreapp2.1\2.Sort_Numbers.AssemblyInfo.cs
+D:\Repos\More_Exercices-I\2.Sort_Numbers\obj\Debug\netcoreapp2.1\2.Sort_Numbers.dll
+D:\Repos\More_Exercices-I\2.Sort_Numbers\obj\Debug\netcoreapp2.1\2.Sort_Numbers.pdb

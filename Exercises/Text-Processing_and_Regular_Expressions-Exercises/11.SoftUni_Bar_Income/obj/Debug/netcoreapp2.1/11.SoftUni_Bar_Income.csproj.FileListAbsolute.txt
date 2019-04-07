@@ -1,0 +1,11 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\11.SoftUni_Bar_Income\bin\Debug\netcoreapp2.1\11.SoftUni_Bar_Income.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\11.SoftUni_Bar_Income\bin\Debug\netcoreapp2.1\11.SoftUni_Bar_Income.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\11.SoftUni_Bar_Income\bin\Debug\netcoreapp2.1\11.SoftUni_Bar_Income.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\11.SoftUni_Bar_Income\bin\Debug\netcoreapp2.1\11.SoftUni_Bar_Income.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\11.SoftUni_Bar_Income\bin\Debug\netcoreapp2.1\11.SoftUni_Bar_Income.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\11.SoftUni_Bar_Income\obj\Debug\netcoreapp2.1\11.SoftUni_Bar_Income.csprojAssemblyReference.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\11.SoftUni_Bar_Income\obj\Debug\netcoreapp2.1\11.SoftUni_Bar_Income.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\11.SoftUni_Bar_Income\obj\Debug\netcoreapp2.1\11.SoftUni_Bar_Income.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\11.SoftUni_Bar_Income\obj\Debug\netcoreapp2.1\11.SoftUni_Bar_Income.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\11.SoftUni_Bar_Income\obj\Debug\netcoreapp2.1\11.SoftUni_Bar_Income.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\11.SoftUni_Bar_Income\obj\Debug\netcoreapp2.1\11.SoftUni_Bar_Income.pdb

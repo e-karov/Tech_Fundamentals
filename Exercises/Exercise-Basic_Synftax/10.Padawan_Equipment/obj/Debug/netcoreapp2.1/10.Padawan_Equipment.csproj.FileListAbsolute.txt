@@ -1,0 +1,11 @@
+D:\Repos\Homewowrks\10.Padawan_Equipment\bin\Debug\netcoreapp2.1\10.Padawan_Equipment.deps.json
+D:\Repos\Homewowrks\10.Padawan_Equipment\bin\Debug\netcoreapp2.1\10.Padawan_Equipment.runtimeconfig.json
+D:\Repos\Homewowrks\10.Padawan_Equipment\bin\Debug\netcoreapp2.1\10.Padawan_Equipment.runtimeconfig.dev.json
+D:\Repos\Homewowrks\10.Padawan_Equipment\bin\Debug\netcoreapp2.1\10.Padawan_Equipment.dll
+D:\Repos\Homewowrks\10.Padawan_Equipment\bin\Debug\netcoreapp2.1\10.Padawan_Equipment.pdb
+D:\Repos\Homewowrks\10.Padawan_Equipment\obj\Debug\netcoreapp2.1\10.Padawan_Equipment.csprojAssemblyReference.cache
+D:\Repos\Homewowrks\10.Padawan_Equipment\obj\Debug\netcoreapp2.1\10.Padawan_Equipment.csproj.CoreCompileInputs.cache
+D:\Repos\Homewowrks\10.Padawan_Equipment\obj\Debug\netcoreapp2.1\10.Padawan_Equipment.AssemblyInfoInputs.cache
+D:\Repos\Homewowrks\10.Padawan_Equipment\obj\Debug\netcoreapp2.1\10.Padawan_Equipment.AssemblyInfo.cs
+D:\Repos\Homewowrks\10.Padawan_Equipment\obj\Debug\netcoreapp2.1\10.Padawan_Equipment.dll
+D:\Repos\Homewowrks\10.Padawan_Equipment\obj\Debug\netcoreapp2.1\10.Padawan_Equipment.pdb

@@ -1,0 +1,11 @@
+D:\Repos\Methods-Exercise\01.Smallest_of_Three_Numbers\bin\Debug\netcoreapp2.1\01.Smallest_of_Three_Numbers.deps.json
+D:\Repos\Methods-Exercise\01.Smallest_of_Three_Numbers\bin\Debug\netcoreapp2.1\01.Smallest_of_Three_Numbers.runtimeconfig.json
+D:\Repos\Methods-Exercise\01.Smallest_of_Three_Numbers\bin\Debug\netcoreapp2.1\01.Smallest_of_Three_Numbers.runtimeconfig.dev.json
+D:\Repos\Methods-Exercise\01.Smallest_of_Three_Numbers\bin\Debug\netcoreapp2.1\01.Smallest_of_Three_Numbers.dll
+D:\Repos\Methods-Exercise\01.Smallest_of_Three_Numbers\bin\Debug\netcoreapp2.1\01.Smallest_of_Three_Numbers.pdb
+D:\Repos\Methods-Exercise\01.Smallest_of_Three_Numbers\obj\Debug\netcoreapp2.1\01.Smallest_of_Three_Numbers.csprojAssemblyReference.cache
+D:\Repos\Methods-Exercise\01.Smallest_of_Three_Numbers\obj\Debug\netcoreapp2.1\01.Smallest_of_Three_Numbers.csproj.CoreCompileInputs.cache
+D:\Repos\Methods-Exercise\01.Smallest_of_Three_Numbers\obj\Debug\netcoreapp2.1\01.Smallest_of_Three_Numbers.AssemblyInfoInputs.cache
+D:\Repos\Methods-Exercise\01.Smallest_of_Three_Numbers\obj\Debug\netcoreapp2.1\01.Smallest_of_Three_Numbers.AssemblyInfo.cs
+D:\Repos\Methods-Exercise\01.Smallest_of_Three_Numbers\obj\Debug\netcoreapp2.1\01.Smallest_of_Three_Numbers.dll
+D:\Repos\Methods-Exercise\01.Smallest_of_Three_Numbers\obj\Debug\netcoreapp2.1\01.Smallest_of_Three_Numbers.pdb

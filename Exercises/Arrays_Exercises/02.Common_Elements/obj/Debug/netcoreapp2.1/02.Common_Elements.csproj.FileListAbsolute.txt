@@ -1,0 +1,10 @@
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\02.Common_Elements\bin\Debug\netcoreapp2.1\02.Common_Elements.deps.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\02.Common_Elements\bin\Debug\netcoreapp2.1\02.Common_Elements.runtimeconfig.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\02.Common_Elements\bin\Debug\netcoreapp2.1\02.Common_Elements.runtimeconfig.dev.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\02.Common_Elements\bin\Debug\netcoreapp2.1\02.Common_Elements.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\02.Common_Elements\bin\Debug\netcoreapp2.1\02.Common_Elements.pdb
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\02.Common_Elements\obj\Debug\netcoreapp2.1\02.Common_Elements.csproj.CoreCompileInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\02.Common_Elements\obj\Debug\netcoreapp2.1\02.Common_Elements.AssemblyInfoInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\02.Common_Elements\obj\Debug\netcoreapp2.1\02.Common_Elements.AssemblyInfo.cs
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\02.Common_Elements\obj\Debug\netcoreapp2.1\02.Common_Elements.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\02.Common_Elements\obj\Debug\netcoreapp2.1\02.Common_Elements.pdb

@@ -1,0 +1,11 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\01.Valid_Usernames\bin\Debug\netcoreapp2.1\01.Valid_Usernames.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\01.Valid_Usernames\bin\Debug\netcoreapp2.1\01.Valid_Usernames.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\01.Valid_Usernames\bin\Debug\netcoreapp2.1\01.Valid_Usernames.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\01.Valid_Usernames\bin\Debug\netcoreapp2.1\01.Valid_Usernames.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\01.Valid_Usernames\bin\Debug\netcoreapp2.1\01.Valid_Usernames.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\01.Valid_Usernames\obj\Debug\netcoreapp2.1\01.Valid_Usernames.csprojAssemblyReference.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\01.Valid_Usernames\obj\Debug\netcoreapp2.1\01.Valid_Usernames.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\01.Valid_Usernames\obj\Debug\netcoreapp2.1\01.Valid_Usernames.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\01.Valid_Usernames\obj\Debug\netcoreapp2.1\01.Valid_Usernames.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\01.Valid_Usernames\obj\Debug\netcoreapp2.1\01.Valid_Usernames.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\01.Valid_Usernames\obj\Debug\netcoreapp2.1\01.Valid_Usernames.pdb

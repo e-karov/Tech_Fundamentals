@@ -1,0 +1,11 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\11.Poke_Mon\bin\Debug\netcoreapp2.1\11.Poke_Mon.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\11.Poke_Mon\bin\Debug\netcoreapp2.1\11.Poke_Mon.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\11.Poke_Mon\bin\Debug\netcoreapp2.1\11.Poke_Mon.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\11.Poke_Mon\bin\Debug\netcoreapp2.1\11.Poke_Mon.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\11.Poke_Mon\bin\Debug\netcoreapp2.1\11.Poke_Mon.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\11.Poke_Mon\obj\Debug\netcoreapp2.1\11.Poke_Mon.csprojAssemblyReference.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\11.Poke_Mon\obj\Debug\netcoreapp2.1\11.Poke_Mon.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\11.Poke_Mon\obj\Debug\netcoreapp2.1\11.Poke_Mon.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\11.Poke_Mon\obj\Debug\netcoreapp2.1\11.Poke_Mon.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\11.Poke_Mon\obj\Debug\netcoreapp2.1\11.Poke_Mon.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\11.Poke_Mon\obj\Debug\netcoreapp2.1\11.Poke_Mon.pdb

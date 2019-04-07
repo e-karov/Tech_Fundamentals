@@ -1,0 +1,10 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Print_Part_Of_ASCII-T\bin\Debug\netcoreapp2.1\05.Print_Part_Of_ASCII-T.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Print_Part_Of_ASCII-T\bin\Debug\netcoreapp2.1\05.Print_Part_Of_ASCII-T.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Print_Part_Of_ASCII-T\bin\Debug\netcoreapp2.1\05.Print_Part_Of_ASCII-T.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Print_Part_Of_ASCII-T\bin\Debug\netcoreapp2.1\05.Print_Part_Of_ASCII-T.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Print_Part_Of_ASCII-T\bin\Debug\netcoreapp2.1\05.Print_Part_Of_ASCII-T.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Print_Part_Of_ASCII-T\obj\Debug\netcoreapp2.1\05.Print_Part_Of_ASCII-T.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Print_Part_Of_ASCII-T\obj\Debug\netcoreapp2.1\05.Print_Part_Of_ASCII-T.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Print_Part_Of_ASCII-T\obj\Debug\netcoreapp2.1\05.Print_Part_Of_ASCII-T.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Print_Part_Of_ASCII-T\obj\Debug\netcoreapp2.1\05.Print_Part_Of_ASCII-T.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\05.Print_Part_Of_ASCII-T\obj\Debug\netcoreapp2.1\05.Print_Part_Of_ASCII-T.pdb

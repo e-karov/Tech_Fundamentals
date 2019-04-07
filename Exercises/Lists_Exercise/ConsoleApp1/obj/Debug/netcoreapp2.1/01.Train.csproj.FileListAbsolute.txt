@@ -1,0 +1,11 @@
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\ConsoleApp1\bin\Debug\netcoreapp2.1\01.Train.deps.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\ConsoleApp1\bin\Debug\netcoreapp2.1\01.Train.runtimeconfig.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\ConsoleApp1\bin\Debug\netcoreapp2.1\01.Train.runtimeconfig.dev.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\ConsoleApp1\bin\Debug\netcoreapp2.1\01.Train.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\ConsoleApp1\bin\Debug\netcoreapp2.1\01.Train.pdb
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\ConsoleApp1\obj\Debug\netcoreapp2.1\01.Train.csprojAssemblyReference.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\ConsoleApp1\obj\Debug\netcoreapp2.1\01.Train.csproj.CoreCompileInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\ConsoleApp1\obj\Debug\netcoreapp2.1\01.Train.AssemblyInfoInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\ConsoleApp1\obj\Debug\netcoreapp2.1\01.Train.AssemblyInfo.cs
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\ConsoleApp1\obj\Debug\netcoreapp2.1\01.Train.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\ConsoleApp1\obj\Debug\netcoreapp2.1\01.Train.pdb

@@ -1,0 +1,11 @@
+D:\Repos\More_Exercices-I\4.Gaming_Store\bin\Debug\netcoreapp2.1\4.Gaming_Store.deps.json
+D:\Repos\More_Exercices-I\4.Gaming_Store\bin\Debug\netcoreapp2.1\4.Gaming_Store.runtimeconfig.json
+D:\Repos\More_Exercices-I\4.Gaming_Store\bin\Debug\netcoreapp2.1\4.Gaming_Store.runtimeconfig.dev.json
+D:\Repos\More_Exercices-I\4.Gaming_Store\bin\Debug\netcoreapp2.1\4.Gaming_Store.dll
+D:\Repos\More_Exercices-I\4.Gaming_Store\bin\Debug\netcoreapp2.1\4.Gaming_Store.pdb
+D:\Repos\More_Exercices-I\4.Gaming_Store\obj\Debug\netcoreapp2.1\4.Gaming_Store.csprojAssemblyReference.cache
+D:\Repos\More_Exercices-I\4.Gaming_Store\obj\Debug\netcoreapp2.1\4.Gaming_Store.csproj.CoreCompileInputs.cache
+D:\Repos\More_Exercices-I\4.Gaming_Store\obj\Debug\netcoreapp2.1\4.Gaming_Store.AssemblyInfoInputs.cache
+D:\Repos\More_Exercices-I\4.Gaming_Store\obj\Debug\netcoreapp2.1\4.Gaming_Store.AssemblyInfo.cs
+D:\Repos\More_Exercices-I\4.Gaming_Store\obj\Debug\netcoreapp2.1\4.Gaming_Store.dll
+D:\Repos\More_Exercices-I\4.Gaming_Store\obj\Debug\netcoreapp2.1\4.Gaming_Store.pdb

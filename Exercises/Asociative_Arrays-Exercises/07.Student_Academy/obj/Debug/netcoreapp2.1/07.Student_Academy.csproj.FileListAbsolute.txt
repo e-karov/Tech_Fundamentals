@@ -1,0 +1,11 @@
+D:\VS_Source\Asociative_Arrays-Exercises\07.Student_Academy\bin\Debug\netcoreapp2.1\07.Student_Academy.deps.json
+D:\VS_Source\Asociative_Arrays-Exercises\07.Student_Academy\bin\Debug\netcoreapp2.1\07.Student_Academy.runtimeconfig.json
+D:\VS_Source\Asociative_Arrays-Exercises\07.Student_Academy\bin\Debug\netcoreapp2.1\07.Student_Academy.runtimeconfig.dev.json
+D:\VS_Source\Asociative_Arrays-Exercises\07.Student_Academy\bin\Debug\netcoreapp2.1\07.Student_Academy.dll
+D:\VS_Source\Asociative_Arrays-Exercises\07.Student_Academy\bin\Debug\netcoreapp2.1\07.Student_Academy.pdb
+D:\VS_Source\Asociative_Arrays-Exercises\07.Student_Academy\obj\Debug\netcoreapp2.1\07.Student_Academy.csprojAssemblyReference.cache
+D:\VS_Source\Asociative_Arrays-Exercises\07.Student_Academy\obj\Debug\netcoreapp2.1\07.Student_Academy.csproj.CoreCompileInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\07.Student_Academy\obj\Debug\netcoreapp2.1\07.Student_Academy.AssemblyInfoInputs.cache
+D:\VS_Source\Asociative_Arrays-Exercises\07.Student_Academy\obj\Debug\netcoreapp2.1\07.Student_Academy.AssemblyInfo.cs
+D:\VS_Source\Asociative_Arrays-Exercises\07.Student_Academy\obj\Debug\netcoreapp2.1\07.Student_Academy.dll
+D:\VS_Source\Asociative_Arrays-Exercises\07.Student_Academy\obj\Debug\netcoreapp2.1\07.Student_Academy.pdb

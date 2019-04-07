@@ -1,0 +1,10 @@
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\3.Sum_Digits\bin\Debug\netcoreapp2.1\3.Sum_Digits.deps.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\3.Sum_Digits\bin\Debug\netcoreapp2.1\3.Sum_Digits.runtimeconfig.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\3.Sum_Digits\bin\Debug\netcoreapp2.1\3.Sum_Digits.runtimeconfig.dev.json
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\3.Sum_Digits\bin\Debug\netcoreapp2.1\3.Sum_Digits.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\3.Sum_Digits\bin\Debug\netcoreapp2.1\3.Sum_Digits.pdb
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\3.Sum_Digits\obj\Debug\netcoreapp2.1\3.Sum_Digits.csproj.CoreCompileInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\3.Sum_Digits\obj\Debug\netcoreapp2.1\3.Sum_Digits.AssemblyInfoInputs.cache
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\3.Sum_Digits\obj\Debug\netcoreapp2.1\3.Sum_Digits.AssemblyInfo.cs
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\3.Sum_Digits\obj\Debug\netcoreapp2.1\3.Sum_Digits.dll
+D:\Repos\Homewoeks-Tech_Fundamentals_Jan2019\Exercises_Data_Types_and_Variables\3.Sum_Digits\obj\Debug\netcoreapp2.1\3.Sum_Digits.pdb

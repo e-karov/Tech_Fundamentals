@@ -1,0 +1,11 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\08.Star_Enigma\bin\Debug\netcoreapp2.1\08.Star_Enigma.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\08.Star_Enigma\bin\Debug\netcoreapp2.1\08.Star_Enigma.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\08.Star_Enigma\bin\Debug\netcoreapp2.1\08.Star_Enigma.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\08.Star_Enigma\bin\Debug\netcoreapp2.1\08.Star_Enigma.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\08.Star_Enigma\bin\Debug\netcoreapp2.1\08.Star_Enigma.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\08.Star_Enigma\obj\Debug\netcoreapp2.1\08.Star_Enigma.csprojAssemblyReference.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\08.Star_Enigma\obj\Debug\netcoreapp2.1\08.Star_Enigma.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\08.Star_Enigma\obj\Debug\netcoreapp2.1\08.Star_Enigma.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\08.Star_Enigma\obj\Debug\netcoreapp2.1\08.Star_Enigma.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\08.Star_Enigma\obj\Debug\netcoreapp2.1\08.Star_Enigma.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\08.Star_Enigma\obj\Debug\netcoreapp2.1\08.Star_Enigma.pdb

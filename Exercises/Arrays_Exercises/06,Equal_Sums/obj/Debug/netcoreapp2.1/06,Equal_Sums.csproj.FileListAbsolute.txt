@@ -1,0 +1,10 @@
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\06,Equal_Sums\bin\Debug\netcoreapp2.1\06,Equal_Sums.deps.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\06,Equal_Sums\bin\Debug\netcoreapp2.1\06,Equal_Sums.runtimeconfig.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\06,Equal_Sums\bin\Debug\netcoreapp2.1\06,Equal_Sums.runtimeconfig.dev.json
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\06,Equal_Sums\bin\Debug\netcoreapp2.1\06,Equal_Sums.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\06,Equal_Sums\bin\Debug\netcoreapp2.1\06,Equal_Sums.pdb
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\06,Equal_Sums\obj\Debug\netcoreapp2.1\06,Equal_Sums.csproj.CoreCompileInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\06,Equal_Sums\obj\Debug\netcoreapp2.1\06,Equal_Sums.AssemblyInfoInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\06,Equal_Sums\obj\Debug\netcoreapp2.1\06,Equal_Sums.AssemblyInfo.cs
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\06,Equal_Sums\obj\Debug\netcoreapp2.1\06,Equal_Sums.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Homeworks\Arrays_Exercises\06,Equal_Sums\obj\Debug\netcoreapp2.1\06,Equal_Sums.pdb

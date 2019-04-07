@@ -1,0 +1,11 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\03,Extract_File\bin\Debug\netcoreapp2.1\03,Extract_File.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\03,Extract_File\bin\Debug\netcoreapp2.1\03,Extract_File.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\03,Extract_File\bin\Debug\netcoreapp2.1\03,Extract_File.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\03,Extract_File\bin\Debug\netcoreapp2.1\03,Extract_File.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\03,Extract_File\bin\Debug\netcoreapp2.1\03,Extract_File.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\03,Extract_File\obj\Debug\netcoreapp2.1\03,Extract_File.csprojAssemblyReference.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\03,Extract_File\obj\Debug\netcoreapp2.1\03,Extract_File.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\03,Extract_File\obj\Debug\netcoreapp2.1\03,Extract_File.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\03,Extract_File\obj\Debug\netcoreapp2.1\03,Extract_File.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\03,Extract_File\obj\Debug\netcoreapp2.1\03,Extract_File.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\03,Extract_File\obj\Debug\netcoreapp2.1\03,Extract_File.pdb

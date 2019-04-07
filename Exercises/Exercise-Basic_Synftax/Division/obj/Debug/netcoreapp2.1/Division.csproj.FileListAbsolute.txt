@@ -1,0 +1,10 @@
+D:\Repos\Homewowrks\Division\bin\Debug\netcoreapp2.1\Division.deps.json
+D:\Repos\Homewowrks\Division\bin\Debug\netcoreapp2.1\Division.runtimeconfig.json
+D:\Repos\Homewowrks\Division\bin\Debug\netcoreapp2.1\Division.runtimeconfig.dev.json
+D:\Repos\Homewowrks\Division\bin\Debug\netcoreapp2.1\Division.dll
+D:\Repos\Homewowrks\Division\bin\Debug\netcoreapp2.1\Division.pdb
+D:\Repos\Homewowrks\Division\obj\Debug\netcoreapp2.1\Division.csproj.CoreCompileInputs.cache
+D:\Repos\Homewowrks\Division\obj\Debug\netcoreapp2.1\Division.AssemblyInfoInputs.cache
+D:\Repos\Homewowrks\Division\obj\Debug\netcoreapp2.1\Division.AssemblyInfo.cs
+D:\Repos\Homewowrks\Division\obj\Debug\netcoreapp2.1\Division.dll
+D:\Repos\Homewowrks\Division\obj\Debug\netcoreapp2.1\Division.pdb
