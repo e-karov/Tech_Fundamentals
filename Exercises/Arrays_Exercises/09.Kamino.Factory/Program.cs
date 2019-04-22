@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace _09.Kamino.Factory
+namespace _09.Kamino.Factory        // 100 / 100
 {
     class Program
     {

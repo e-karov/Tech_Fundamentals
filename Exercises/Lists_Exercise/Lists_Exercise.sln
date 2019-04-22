@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.421
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Train", "ConsoleApp1\01.Train.csproj", "{C8FA56DB-A3E4-4BC4-BE94-43D63431107B}"
 EndProject
@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Append_Arrays", "07.Appe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.Anonym", "08.Anonym\08.Anonym.csproj", "{F16648B9-8E93-4263-AEC7-7225F4FF329E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Pokemon", "09.Pokemon\09.Pokemon.csproj", "{79A31346-BCB7-4BD8-BDAC-7CBFBD674468}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.Pokemon", "09.Pokemon\09.Pokemon.csproj", "{79A31346-BCB7-4BD8-BDAC-7CBFBD674468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.SoftUni_Course_Planning", "10.SoftUni_Course_Planning\10.SoftUni_Course_Planning.csproj", "{0F4CCECD-A729-48E8-AE3E-E4E726768159}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{79A31346-BCB7-4BD8-BDAC-7CBFBD674468}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79A31346-BCB7-4BD8-BDAC-7CBFBD674468}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79A31346-BCB7-4BD8-BDAC-7CBFBD674468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4CCECD-A729-48E8-AE3E-E4E726768159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4CCECD-A729-48E8-AE3E-E4E726768159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4CCECD-A729-48E8-AE3E-E4E726768159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4CCECD-A729-48E8-AE3E-E4E726768159}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

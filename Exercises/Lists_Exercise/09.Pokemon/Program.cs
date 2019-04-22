@@ -2,57 +2,55 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace _09.Pokemon
+namespace _09.Pokemon                   // 100 / 100
 {
     class Program
     {
         static void Main()
         {
-            List<long> input = Console.ReadLine()
+            List<int> input = Console.ReadLine()
                 .Split()
-                .Select(long.Parse)
+                .Select(int.Parse)
                 .ToList();
             long sum = 0;
             int index = 0;
-
+            
             while (input.Count != 0)
             {
                 index = int.Parse(Console.ReadLine());
-                
+                int currentValue =0;
+               
                 if (index < 0)
                 {
-                    index = 0;
-                    ChangElementsValue(input, index);
-                    sum += input[index];
+                    currentValue = input[0];
+                    ChangElementsValue(input, currentValue);
                     input[0] = input[input.Count - 1];
                 }
 
-                if (index > input.Count - 1)
+                else if (index > input.Count - 1)
                 {
-                    index = input.Count - 1;
-                    ChangElementsValue(input, index);
-                    sum += input[index];
-                    input[input.Count - 1] = input[0];
+                    currentValue = input[input.Count - 1];
+                    ChangElementsValue(input, currentValue);
+                    input[input.Count-1] = input[0];
                 }
 
                 else
                 {
-                    ChangElementsValue(input, index);
-                    sum += input[index];
+                    currentValue = input[index];
                     input.RemoveAt(index);
+                    ChangElementsValue(input, currentValue);
                 }
+                sum += currentValue;
             }
 
             Console.WriteLine(sum);
         }
 
-        static List<long> ChangElementsValue(List<long> input, int index)
+        static List<int> ChangElementsValue(List<int> input, int currentValue)
         {
-            long currentValue = input[index];
             for (int j = 0; j < input.Count; j++)
             {
-                if (j != index)
-                {
+               
                     if (input[j] <= currentValue)
                     {
                         input[j] += currentValue;
@@ -61,7 +59,7 @@ namespace _09.Pokemon
                     {
                         input[j] -= currentValue;
                     }
-                }
+               
             }
 
             return input;

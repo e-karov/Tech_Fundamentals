@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace _10.LadyBugs
+namespace _10.LadyBugs      // 100 / 100
 {
     class Program
     {

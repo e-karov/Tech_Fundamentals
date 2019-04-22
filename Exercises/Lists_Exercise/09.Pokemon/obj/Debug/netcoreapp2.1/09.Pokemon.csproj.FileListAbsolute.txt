@@ -9,3 +9,14 @@ D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\09.Pokemon\obj\D
 D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\09.Pokemon\obj\Debug\netcoreapp2.1\09.Pokemon.AssemblyInfo.cs
 D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\09.Pokemon\obj\Debug\netcoreapp2.1\09.Pokemon.dll
 D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises\Lists_Exercise\09.Pokemon\obj\Debug\netcoreapp2.1\09.Pokemon.pdb
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\09.Pokemon\bin\Debug\netcoreapp2.1\09.Pokemon.deps.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\09.Pokemon\bin\Debug\netcoreapp2.1\09.Pokemon.runtimeconfig.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\09.Pokemon\bin\Debug\netcoreapp2.1\09.Pokemon.runtimeconfig.dev.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\09.Pokemon\bin\Debug\netcoreapp2.1\09.Pokemon.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\09.Pokemon\bin\Debug\netcoreapp2.1\09.Pokemon.pdb
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\09.Pokemon\obj\Debug\netcoreapp2.1\09.Pokemon.csprojAssemblyReference.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\09.Pokemon\obj\Debug\netcoreapp2.1\09.Pokemon.csproj.CoreCompileInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\09.Pokemon\obj\Debug\netcoreapp2.1\09.Pokemon.AssemblyInfoInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\09.Pokemon\obj\Debug\netcoreapp2.1\09.Pokemon.AssemblyInfo.cs
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\09.Pokemon\obj\Debug\netcoreapp2.1\09.Pokemon.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\09.Pokemon\obj\Debug\netcoreapp2.1\09.Pokemon.pdb
