@@ -1,0 +1,10 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\14.HTML\bin\Debug\netcoreapp2.1\15.HTML.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\14.HTML\bin\Debug\netcoreapp2.1\15.HTML.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\14.HTML\bin\Debug\netcoreapp2.1\15.HTML.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\14.HTML\bin\Debug\netcoreapp2.1\15.HTML.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\14.HTML\bin\Debug\netcoreapp2.1\15.HTML.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\14.HTML\obj\Debug\netcoreapp2.1\15.HTML.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\14.HTML\obj\Debug\netcoreapp2.1\15.HTML.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\14.HTML\obj\Debug\netcoreapp2.1\15.HTML.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\14.HTML\obj\Debug\netcoreapp2.1\15.HTML.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\14.HTML\obj\Debug\netcoreapp2.1\15.HTML.pdb

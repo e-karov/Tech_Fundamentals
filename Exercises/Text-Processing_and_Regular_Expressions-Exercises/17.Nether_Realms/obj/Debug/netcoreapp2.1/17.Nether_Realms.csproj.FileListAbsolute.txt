@@ -1,0 +1,11 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\17.Nether_Realms\bin\Debug\netcoreapp2.1\17.Nether_Realms.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\17.Nether_Realms\bin\Debug\netcoreapp2.1\17.Nether_Realms.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\17.Nether_Realms\bin\Debug\netcoreapp2.1\17.Nether_Realms.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\17.Nether_Realms\bin\Debug\netcoreapp2.1\17.Nether_Realms.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\17.Nether_Realms\bin\Debug\netcoreapp2.1\17.Nether_Realms.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\17.Nether_Realms\obj\Debug\netcoreapp2.1\17.Nether_Realms.csprojAssemblyReference.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\17.Nether_Realms\obj\Debug\netcoreapp2.1\17.Nether_Realms.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\17.Nether_Realms\obj\Debug\netcoreapp2.1\17.Nether_Realms.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\17.Nether_Realms\obj\Debug\netcoreapp2.1\17.Nether_Realms.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\17.Nether_Realms\obj\Debug\netcoreapp2.1\17.Nether_Realms.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\17.Nether_Realms\obj\Debug\netcoreapp2.1\17.Nether_Realms.pdb

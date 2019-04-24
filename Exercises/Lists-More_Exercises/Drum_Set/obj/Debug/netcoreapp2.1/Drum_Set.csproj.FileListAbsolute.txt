@@ -1,0 +1,11 @@
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Drum_Set\bin\Debug\netcoreapp2.1\Drum_Set.deps.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Drum_Set\bin\Debug\netcoreapp2.1\Drum_Set.runtimeconfig.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Drum_Set\bin\Debug\netcoreapp2.1\Drum_Set.runtimeconfig.dev.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Drum_Set\bin\Debug\netcoreapp2.1\Drum_Set.dll
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Drum_Set\bin\Debug\netcoreapp2.1\Drum_Set.pdb
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Drum_Set\obj\Debug\netcoreapp2.1\Drum_Set.csprojAssemblyReference.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Drum_Set\obj\Debug\netcoreapp2.1\Drum_Set.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Drum_Set\obj\Debug\netcoreapp2.1\Drum_Set.AssemblyInfoInputs.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Drum_Set\obj\Debug\netcoreapp2.1\Drum_Set.AssemblyInfo.cs
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Drum_Set\obj\Debug\netcoreapp2.1\Drum_Set.dll
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Drum_Set\obj\Debug\netcoreapp2.1\Drum_Set.pdb

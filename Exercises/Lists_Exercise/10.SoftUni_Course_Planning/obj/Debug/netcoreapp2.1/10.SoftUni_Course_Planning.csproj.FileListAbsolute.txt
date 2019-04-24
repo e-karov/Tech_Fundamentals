@@ -1,0 +1,11 @@
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\10.SoftUni_Course_Planning\obj\Debug\netcoreapp2.1\10.SoftUni_Course_Planning.csprojAssemblyReference.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\10.SoftUni_Course_Planning\obj\Debug\netcoreapp2.1\10.SoftUni_Course_Planning.csproj.CoreCompileInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\10.SoftUni_Course_Planning\obj\Debug\netcoreapp2.1\10.SoftUni_Course_Planning.AssemblyInfoInputs.cache
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\10.SoftUni_Course_Planning\obj\Debug\netcoreapp2.1\10.SoftUni_Course_Planning.AssemblyInfo.cs
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\10.SoftUni_Course_Planning\bin\Debug\netcoreapp2.1\10.SoftUni_Course_Planning.deps.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\10.SoftUni_Course_Planning\bin\Debug\netcoreapp2.1\10.SoftUni_Course_Planning.runtimeconfig.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\10.SoftUni_Course_Planning\bin\Debug\netcoreapp2.1\10.SoftUni_Course_Planning.runtimeconfig.dev.json
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\10.SoftUni_Course_Planning\bin\Debug\netcoreapp2.1\10.SoftUni_Course_Planning.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\10.SoftUni_Course_Planning\bin\Debug\netcoreapp2.1\10.SoftUni_Course_Planning.pdb
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\10.SoftUni_Course_Planning\obj\Debug\netcoreapp2.1\10.SoftUni_Course_Planning.dll
+D:\VS_Source\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists_Exercise\10.SoftUni_Course_Planning\obj\Debug\netcoreapp2.1\10.SoftUni_Course_Planning.pdb

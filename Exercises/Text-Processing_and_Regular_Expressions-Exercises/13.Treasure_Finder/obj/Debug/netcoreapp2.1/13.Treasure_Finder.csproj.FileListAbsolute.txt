@@ -1,0 +1,11 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Treasure_Finder\bin\Debug\netcoreapp2.1\13.Treasure_Finder.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Treasure_Finder\bin\Debug\netcoreapp2.1\13.Treasure_Finder.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Treasure_Finder\bin\Debug\netcoreapp2.1\13.Treasure_Finder.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Treasure_Finder\bin\Debug\netcoreapp2.1\13.Treasure_Finder.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Treasure_Finder\bin\Debug\netcoreapp2.1\13.Treasure_Finder.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Treasure_Finder\obj\Debug\netcoreapp2.1\13.Treasure_Finder.csprojAssemblyReference.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Treasure_Finder\obj\Debug\netcoreapp2.1\13.Treasure_Finder.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Treasure_Finder\obj\Debug\netcoreapp2.1\13.Treasure_Finder.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Treasure_Finder\obj\Debug\netcoreapp2.1\13.Treasure_Finder.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Treasure_Finder\obj\Debug\netcoreapp2.1\13.Treasure_Finder.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Treasure_Finder\obj\Debug\netcoreapp2.1\13.Treasure_Finder.pdb

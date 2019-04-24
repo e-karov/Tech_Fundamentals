@@ -1,0 +1,11 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\16.Winning_Ticket\bin\Debug\netcoreapp2.1\16.Winning_Ticket.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\16.Winning_Ticket\bin\Debug\netcoreapp2.1\16.Winning_Ticket.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\16.Winning_Ticket\bin\Debug\netcoreapp2.1\16.Winning_Ticket.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\16.Winning_Ticket\bin\Debug\netcoreapp2.1\16.Winning_Ticket.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\16.Winning_Ticket\bin\Debug\netcoreapp2.1\16.Winning_Ticket.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\16.Winning_Ticket\obj\Debug\netcoreapp2.1\16.Winning_Ticket.csprojAssemblyReference.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\16.Winning_Ticket\obj\Debug\netcoreapp2.1\16.Winning_Ticket.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\16.Winning_Ticket\obj\Debug\netcoreapp2.1\16.Winning_Ticket.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\16.Winning_Ticket\obj\Debug\netcoreapp2.1\16.Winning_Ticket.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\16.Winning_Ticket\obj\Debug\netcoreapp2.1\16.Winning_Ticket.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\16.Winning_Ticket\obj\Debug\netcoreapp2.1\16.Winning_Ticket.pdb

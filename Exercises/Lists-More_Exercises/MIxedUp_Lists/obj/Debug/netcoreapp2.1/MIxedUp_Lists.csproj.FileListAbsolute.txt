@@ -1,0 +1,11 @@
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\MIxedUp_Lists\bin\Debug\netcoreapp2.1\MIxedUp_Lists.deps.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\MIxedUp_Lists\bin\Debug\netcoreapp2.1\MIxedUp_Lists.runtimeconfig.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\MIxedUp_Lists\bin\Debug\netcoreapp2.1\MIxedUp_Lists.runtimeconfig.dev.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\MIxedUp_Lists\bin\Debug\netcoreapp2.1\MIxedUp_Lists.dll
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\MIxedUp_Lists\bin\Debug\netcoreapp2.1\MIxedUp_Lists.pdb
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\MIxedUp_Lists\obj\Debug\netcoreapp2.1\MIxedUp_Lists.csprojAssemblyReference.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\MIxedUp_Lists\obj\Debug\netcoreapp2.1\MIxedUp_Lists.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\MIxedUp_Lists\obj\Debug\netcoreapp2.1\MIxedUp_Lists.AssemblyInfoInputs.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\MIxedUp_Lists\obj\Debug\netcoreapp2.1\MIxedUp_Lists.AssemblyInfo.cs
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\MIxedUp_Lists\obj\Debug\netcoreapp2.1\MIxedUp_Lists.dll
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\MIxedUp_Lists\obj\Debug\netcoreapp2.1\MIxedUp_Lists.pdb

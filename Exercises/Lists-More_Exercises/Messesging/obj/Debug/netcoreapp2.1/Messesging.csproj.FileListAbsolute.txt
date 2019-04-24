@@ -1,0 +1,11 @@
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Messesging\bin\Debug\netcoreapp2.1\Messesging.deps.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Messesging\bin\Debug\netcoreapp2.1\Messesging.runtimeconfig.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Messesging\bin\Debug\netcoreapp2.1\Messesging.runtimeconfig.dev.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Messesging\bin\Debug\netcoreapp2.1\Messesging.dll
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Messesging\bin\Debug\netcoreapp2.1\Messesging.pdb
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Messesging\obj\Debug\netcoreapp2.1\Messesging.csprojAssemblyReference.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Messesging\obj\Debug\netcoreapp2.1\Messesging.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Messesging\obj\Debug\netcoreapp2.1\Messesging.AssemblyInfoInputs.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Messesging\obj\Debug\netcoreapp2.1\Messesging.AssemblyInfo.cs
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Messesging\obj\Debug\netcoreapp2.1\Messesging.dll
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\Messesging\obj\Debug\netcoreapp2.1\Messesging.pdb

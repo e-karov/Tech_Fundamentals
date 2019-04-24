@@ -1,0 +1,11 @@
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache

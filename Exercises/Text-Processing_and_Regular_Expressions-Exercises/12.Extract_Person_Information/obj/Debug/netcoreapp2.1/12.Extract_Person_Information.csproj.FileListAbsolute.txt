@@ -1,0 +1,11 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\12.Extract_Person_Information\bin\Debug\netcoreapp2.1\12.Extract_Person_Information.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\12.Extract_Person_Information\bin\Debug\netcoreapp2.1\12.Extract_Person_Information.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\12.Extract_Person_Information\bin\Debug\netcoreapp2.1\12.Extract_Person_Information.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\12.Extract_Person_Information\bin\Debug\netcoreapp2.1\12.Extract_Person_Information.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\12.Extract_Person_Information\bin\Debug\netcoreapp2.1\12.Extract_Person_Information.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\12.Extract_Person_Information\obj\Debug\netcoreapp2.1\12.Extract_Person_Information.csprojAssemblyReference.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\12.Extract_Person_Information\obj\Debug\netcoreapp2.1\12.Extract_Person_Information.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\12.Extract_Person_Information\obj\Debug\netcoreapp2.1\12.Extract_Person_Information.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\12.Extract_Person_Information\obj\Debug\netcoreapp2.1\12.Extract_Person_Information.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\12.Extract_Person_Information\obj\Debug\netcoreapp2.1\12.Extract_Person_Information.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\12.Extract_Person_Information\obj\Debug\netcoreapp2.1\12.Extract_Person_Information.pdb

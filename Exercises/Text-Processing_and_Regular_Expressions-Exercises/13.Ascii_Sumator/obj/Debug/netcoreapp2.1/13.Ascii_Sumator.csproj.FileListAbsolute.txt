@@ -1,0 +1,11 @@
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Ascii_Sumator\bin\Debug\netcoreapp2.1\13.Ascii_Sumator.deps.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Ascii_Sumator\bin\Debug\netcoreapp2.1\13.Ascii_Sumator.runtimeconfig.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Ascii_Sumator\bin\Debug\netcoreapp2.1\13.Ascii_Sumator.runtimeconfig.dev.json
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Ascii_Sumator\bin\Debug\netcoreapp2.1\13.Ascii_Sumator.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Ascii_Sumator\bin\Debug\netcoreapp2.1\13.Ascii_Sumator.pdb
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Ascii_Sumator\obj\Debug\netcoreapp2.1\13.Ascii_Sumator.csprojAssemblyReference.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Ascii_Sumator\obj\Debug\netcoreapp2.1\13.Ascii_Sumator.csproj.CoreCompileInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Ascii_Sumator\obj\Debug\netcoreapp2.1\13.Ascii_Sumator.AssemblyInfoInputs.cache
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Ascii_Sumator\obj\Debug\netcoreapp2.1\13.Ascii_Sumator.AssemblyInfo.cs
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Ascii_Sumator\obj\Debug\netcoreapp2.1\13.Ascii_Sumator.dll
+D:\VS_Source\Text-Processing_and_Regular_Expressions-Exercises\13.Ascii_Sumator\obj\Debug\netcoreapp2.1\13.Ascii_Sumator.pdb

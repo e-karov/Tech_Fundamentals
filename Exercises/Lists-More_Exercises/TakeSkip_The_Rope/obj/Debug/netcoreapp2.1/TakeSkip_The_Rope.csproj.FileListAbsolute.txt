@@ -1,0 +1,11 @@
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\TakeSkip_The_Rope\bin\Debug\netcoreapp2.1\TakeSkip_The_Rope.deps.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\TakeSkip_The_Rope\bin\Debug\netcoreapp2.1\TakeSkip_The_Rope.runtimeconfig.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\TakeSkip_The_Rope\bin\Debug\netcoreapp2.1\TakeSkip_The_Rope.runtimeconfig.dev.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\TakeSkip_The_Rope\bin\Debug\netcoreapp2.1\TakeSkip_The_Rope.dll
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\TakeSkip_The_Rope\bin\Debug\netcoreapp2.1\TakeSkip_The_Rope.pdb
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\TakeSkip_The_Rope\obj\Debug\netcoreapp2.1\TakeSkip_The_Rope.csprojAssemblyReference.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\TakeSkip_The_Rope\obj\Debug\netcoreapp2.1\TakeSkip_The_Rope.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\TakeSkip_The_Rope\obj\Debug\netcoreapp2.1\TakeSkip_The_Rope.AssemblyInfoInputs.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\TakeSkip_The_Rope\obj\Debug\netcoreapp2.1\TakeSkip_The_Rope.AssemblyInfo.cs
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\TakeSkip_The_Rope\obj\Debug\netcoreapp2.1\TakeSkip_The_Rope.dll
+D:\VS_Repo\Tech_Fundamentals_Jan2019\Exercises-TechFund_01.2019\Lists-More_Exercises\TakeSkip_The_Rope\obj\Debug\netcoreapp2.1\TakeSkip_The_Rope.pdb
