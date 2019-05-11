@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\02.Common_Elements\\02.Common_Elements.csproj",
+      "projectUniqueName": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\02.Common_Elements\\02.Common_Elements.csproj",
       "projectName": "02.Common_Elements",
-      "projectPath": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\02.Common_Elements\\02.Common_Elements.csproj",
+      "projectPath": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\02.Common_Elements\\02.Common_Elements.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\02.Common_Elements\\obj\\",
+      "outputPath": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\02.Common_Elements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

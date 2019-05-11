@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\04.Array_Rotation\\04.Array_Rotation.csproj",
+      "projectUniqueName": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\04.Array_Rotation\\04.Array_Rotation.csproj",
       "projectName": "04.Array_Rotation",
-      "projectPath": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\04.Array_Rotation\\04.Array_Rotation.csproj",
+      "projectPath": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\04.Array_Rotation\\04.Array_Rotation.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\04.Array_Rotation\\obj\\",
+      "outputPath": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\04.Array_Rotation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

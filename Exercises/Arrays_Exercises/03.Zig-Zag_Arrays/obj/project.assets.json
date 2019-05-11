@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\03.Zig-Zag_Arrays\\03.Zig-Zag_Arrays.csproj",
+      "projectUniqueName": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\03.Zig-Zag_Arrays\\03.Zig-Zag_Arrays.csproj",
       "projectName": "03.Zig-Zag_Arrays",
-      "projectPath": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\03.Zig-Zag_Arrays\\03.Zig-Zag_Arrays.csproj",
+      "projectPath": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\03.Zig-Zag_Arrays\\03.Zig-Zag_Arrays.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\03.Zig-Zag_Arrays\\obj\\",
+      "outputPath": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\03.Zig-Zag_Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

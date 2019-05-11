@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\07.Max_Sequence_of_Equal_Elements\\07.Max_Sequence_of_Equal_Elements.csproj",
+      "projectUniqueName": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\07.Max_Sequence_of_Equal_Elements\\07.Max_Sequence_of_Equal_Elements.csproj",
       "projectName": "07.Max_Sequence_of_Equal_Elements",
-      "projectPath": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\07.Max_Sequence_of_Equal_Elements\\07.Max_Sequence_of_Equal_Elements.csproj",
+      "projectPath": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\07.Max_Sequence_of_Equal_Elements\\07.Max_Sequence_of_Equal_Elements.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\07.Max_Sequence_of_Equal_Elements\\obj\\",
+      "outputPath": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\07.Max_Sequence_of_Equal_Elements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8,3 +8,14 @@ D:\Repos\Methods-Exercise\09.Factorial_Division\obj\Debug\netcoreapp2.1\09.Facto
 D:\Repos\Methods-Exercise\09.Factorial_Division\obj\Debug\netcoreapp2.1\09.Factorial_Division.AssemblyInfo.cs
 D:\Repos\Methods-Exercise\09.Factorial_Division\obj\Debug\netcoreapp2.1\09.Factorial_Division.dll
 D:\Repos\Methods-Exercise\09.Factorial_Division\obj\Debug\netcoreapp2.1\09.Factorial_Division.pdb
+D:\VS_Repo\Tech_Fundamentals_Jan2019\EXERCISES-Tech.Fund_01.2019\Methods-Exercise\09.Factorial_Division\bin\Debug\netcoreapp2.1\09.Factorial_Division.deps.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\EXERCISES-Tech.Fund_01.2019\Methods-Exercise\09.Factorial_Division\bin\Debug\netcoreapp2.1\09.Factorial_Division.runtimeconfig.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\EXERCISES-Tech.Fund_01.2019\Methods-Exercise\09.Factorial_Division\bin\Debug\netcoreapp2.1\09.Factorial_Division.runtimeconfig.dev.json
+D:\VS_Repo\Tech_Fundamentals_Jan2019\EXERCISES-Tech.Fund_01.2019\Methods-Exercise\09.Factorial_Division\bin\Debug\netcoreapp2.1\09.Factorial_Division.dll
+D:\VS_Repo\Tech_Fundamentals_Jan2019\EXERCISES-Tech.Fund_01.2019\Methods-Exercise\09.Factorial_Division\bin\Debug\netcoreapp2.1\09.Factorial_Division.pdb
+D:\VS_Repo\Tech_Fundamentals_Jan2019\EXERCISES-Tech.Fund_01.2019\Methods-Exercise\09.Factorial_Division\obj\Debug\netcoreapp2.1\09.Factorial_Division.csprojAssemblyReference.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\EXERCISES-Tech.Fund_01.2019\Methods-Exercise\09.Factorial_Division\obj\Debug\netcoreapp2.1\09.Factorial_Division.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\EXERCISES-Tech.Fund_01.2019\Methods-Exercise\09.Factorial_Division\obj\Debug\netcoreapp2.1\09.Factorial_Division.AssemblyInfoInputs.cache
+D:\VS_Repo\Tech_Fundamentals_Jan2019\EXERCISES-Tech.Fund_01.2019\Methods-Exercise\09.Factorial_Division\obj\Debug\netcoreapp2.1\09.Factorial_Division.AssemblyInfo.cs
+D:\VS_Repo\Tech_Fundamentals_Jan2019\EXERCISES-Tech.Fund_01.2019\Methods-Exercise\09.Factorial_Division\obj\Debug\netcoreapp2.1\09.Factorial_Division.dll
+D:\VS_Repo\Tech_Fundamentals_Jan2019\EXERCISES-Tech.Fund_01.2019\Methods-Exercise\09.Factorial_Division\obj\Debug\netcoreapp2.1\09.Factorial_Division.pdb

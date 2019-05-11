@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\11.Encrypt,_Sort_and_Print_Array\\11.Encrypt,_Sort_and_Print_Array.csproj",
+      "projectUniqueName": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\11.Encrypt,_Sort_and_Print_Array\\11.Encrypt,_Sort_and_Print_Array.csproj",
       "projectName": "11.Encrypt,_Sort_and_Print_Array",
-      "projectPath": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\11.Encrypt,_Sort_and_Print_Array\\11.Encrypt,_Sort_and_Print_Array.csproj",
+      "projectPath": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\11.Encrypt,_Sort_and_Print_Array\\11.Encrypt,_Sort_and_Print_Array.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Source\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\11.Encrypt,_Sort_and_Print_Array\\obj\\",
+      "outputPath": "D:\\VS_Repo\\Tech_Fundamentals_Jan2019\\Exercises-TechFund_01.2019\\Arrays_Exercises\\11.Encrypt,_Sort_and_Print_Array\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

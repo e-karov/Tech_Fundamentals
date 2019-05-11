@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Numerics;
 
-namespace _09.Factorial_Division
+namespace _09.Factorial_Division                // 100 / 100
 {
     class Program
     {
@@ -10,13 +10,13 @@ namespace _09.Factorial_Division
             int a = int.Parse(Console.ReadLine());
             int b = int.Parse(Console.ReadLine());
 
-            double result = FactorialDivision(a, b);
+            decimal result = FactorialDivision(a, b);
             Console.WriteLine($"{result:F2}");
         }
 
-        static double GetFactorial(int number)
+        static decimal GetFactorial(int number)
         {
-            double factorial = 1;
+            decimal factorial = 1;
 
             for (int i = 1; i <= number; i++)
             {
@@ -25,9 +25,9 @@ namespace _09.Factorial_Division
             return factorial;
         }
 
-        static double FactorialDivision(int a, int b)
+        static decimal FactorialDivision(int a, int b)
         {
-            double result = GetFactorial(a) / GetFactorial(b);
+            decimal result = GetFactorial(a) / GetFactorial(b);
 
             return result;
         }

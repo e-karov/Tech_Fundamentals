@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _04.Password_Validator
+namespace _04.Password_Validator            // 100 / 100
 {
     class Program
     {
