@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Emoji_Sumator\bin\Debug\netcoreapp2.1\Emoji_Sumator.deps.json
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Emoji_Sumator\bin\Debug\netcoreapp2.1\Emoji_Sumator.runtimeconfig.json
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Emoji_Sumator\bin\Debug\netcoreapp2.1\Emoji_Sumator.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Emoji_Sumator\bin\Debug\netcoreapp2.1\Emoji_Sumator.dll
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Emoji_Sumator\bin\Debug\netcoreapp2.1\Emoji_Sumator.pdb
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Emoji_Sumator\obj\Debug\netcoreapp2.1\Emoji_Sumator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Emoji_Sumator\obj\Debug\netcoreapp2.1\Emoji_Sumator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Emoji_Sumator\obj\Debug\netcoreapp2.1\Emoji_Sumator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Emoji_Sumator\obj\Debug\netcoreapp2.1\Emoji_Sumator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Emoji_Sumator\obj\Debug\netcoreapp2.1\Emoji_Sumator.dll
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Emoji_Sumator\obj\Debug\netcoreapp2.1\Emoji_Sumator.pdb

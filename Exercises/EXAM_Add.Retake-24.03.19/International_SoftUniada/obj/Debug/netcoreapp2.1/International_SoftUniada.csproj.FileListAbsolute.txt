@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\International_SoftUniada\bin\Debug\netcoreapp2.1\International_SoftUniada.deps.json
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\International_SoftUniada\bin\Debug\netcoreapp2.1\International_SoftUniada.runtimeconfig.json
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\International_SoftUniada\bin\Debug\netcoreapp2.1\International_SoftUniada.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\International_SoftUniada\bin\Debug\netcoreapp2.1\International_SoftUniada.dll
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\International_SoftUniada\bin\Debug\netcoreapp2.1\International_SoftUniada.pdb
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\International_SoftUniada\obj\Debug\netcoreapp2.1\International_SoftUniada.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\International_SoftUniada\obj\Debug\netcoreapp2.1\International_SoftUniada.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\International_SoftUniada\obj\Debug\netcoreapp2.1\International_SoftUniada.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\International_SoftUniada\obj\Debug\netcoreapp2.1\International_SoftUniada.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\International_SoftUniada\obj\Debug\netcoreapp2.1\International_SoftUniada.dll
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\International_SoftUniada\obj\Debug\netcoreapp2.1\International_SoftUniada.pdb

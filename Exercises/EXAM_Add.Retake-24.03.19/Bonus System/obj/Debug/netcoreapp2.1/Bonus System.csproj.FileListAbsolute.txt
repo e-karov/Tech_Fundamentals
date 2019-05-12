@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Bonus System\bin\Debug\netcoreapp2.1\Bonus System.deps.json
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Bonus System\bin\Debug\netcoreapp2.1\Bonus System.runtimeconfig.json
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Bonus System\bin\Debug\netcoreapp2.1\Bonus System.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Bonus System\bin\Debug\netcoreapp2.1\Bonus System.dll
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Bonus System\bin\Debug\netcoreapp2.1\Bonus System.pdb
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Bonus System\obj\Debug\netcoreapp2.1\Bonus System.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Bonus System\obj\Debug\netcoreapp2.1\Bonus System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Bonus System\obj\Debug\netcoreapp2.1\Bonus System.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Bonus System\obj\Debug\netcoreapp2.1\Bonus System.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Bonus System\obj\Debug\netcoreapp2.1\Bonus System.dll
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Bonus System\obj\Debug\netcoreapp2.1\Bonus System.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Nascar_Qualifications\bin\Debug\netcoreapp2.1\Nascar_Qualifications.deps.json
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Nascar_Qualifications\bin\Debug\netcoreapp2.1\Nascar_Qualifications.runtimeconfig.json
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Nascar_Qualifications\bin\Debug\netcoreapp2.1\Nascar_Qualifications.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Nascar_Qualifications\bin\Debug\netcoreapp2.1\Nascar_Qualifications.dll
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Nascar_Qualifications\bin\Debug\netcoreapp2.1\Nascar_Qualifications.pdb
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Nascar_Qualifications\obj\Debug\netcoreapp2.1\Nascar_Qualifications.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Nascar_Qualifications\obj\Debug\netcoreapp2.1\Nascar_Qualifications.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Nascar_Qualifications\obj\Debug\netcoreapp2.1\Nascar_Qualifications.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Nascar_Qualifications\obj\Debug\netcoreapp2.1\Nascar_Qualifications.dll
+C:\Users\Admin\source\repos\Add.Retake_Exam-24.03.19\Nascar_Qualifications\obj\Debug\netcoreapp2.1\Nascar_Qualifications.pdb
